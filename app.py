@@ -20,11 +20,30 @@ os.makedirs("logs", exist_ok=True)
 
 def write_log(msg):
     log_file = os.path.join("logs", "app.log")
-    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open(log_file, "a", encoding="utf-8") as f:
+        f.write(f"[{ts}] {msg}\n")
 
-    with open(log_file, "a", encoding="utf-8") as lf:
-        lf.write(f"[{timestamp}] {msg}\n")
 
+def log_exception(e, func_name, logfile="logs/error.log"):
+    tb = e.__traceback__
+    
+    if tb:
+        lineno = tb.tb_lineno
+    else:
+        lineno = "N/A"
+
+    error_message = (
+        f"\nIn {func_name} LINE.NO-{lineno} : {type(e).__name__}: {e}\n"
+        + ''.join(traceback.format_exception(type(e), e, tb))
+    )
+
+    with open(logfile, 'a', encoding='utf-8') as fp:
+        fp.write(error_message)
+
+def processLogger(process, logfile="logs/process.log"):
+    with open(logfile, 'a', encoding='utf-8') as fp:
+        fp.writelines(f"\n{datetime.now()} {process}")
 
 
 def parse_pdf(pdf_file):
@@ -100,3 +119,4 @@ def extract_api():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=9001)
+
