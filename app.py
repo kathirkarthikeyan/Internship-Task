@@ -89,6 +89,57 @@ def parse_pdf(pdf_file):
         write_log(f"ERROR parsing PDF: {err}")
         raise
 
+ef extract_and_highlight(pdf_path):
+    try:
+        doc = fitz.open(pdf_path)
+        pdf_data = []
+
+        for page_num, page in enumerate(doc):
+            text = page.get_text("text")
+            extracted_codes = []
+
+            for match in re.finditer(ICD_PATTERN, text, re.IGNORECASE):
+                codes_str = match.group(1)
+                codes = [c.strip() for c in codes_str.split(",")]
+                extracted_codes.extend(codes)
+
+                for code in codes:
+                    for inst in page.search_for(code):
+                        annot = page.add_highlight_annot(inst)
+
+                        if "ICD-10" in match.group(0).upper():
+                            annot.set_colors(stroke=(1, 0.8, 0.8))
+                        else:
+                            annot.set_colors(stroke=(0.6, 0.8, 1))
+
+                        annot.update()
+
+            pdf_data.append({
+                "page": page_num + 1,
+                "codes": extracted_codes
+            })
+
+        
+        base_name = pdf_path.rsplit(".", 1)[0]
+        highlighted_pdf = f"{base_name}_highlighted.pdf"
+        json_file = f"{base_name}_words.json"
+
+        doc.save(highlighted_pdf)
+        doc.close()
+
+        with open(json_file, "w") as f:
+            json.dump(pdf_data, f, indent=4)
+
+        write_log(f"Highlighted PDF saved: {highlighted_pdf}")
+        write_log(f"JSON saved: {json_file}")
+
+        return highlighted_pdf, json_file
+
+    except Exception as e:
+        log_exception(e, "extract_and_highlight")
+        raise
+
+
 
 
 app = Flask(__name__)
@@ -119,4 +170,5 @@ def extract_api():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=9001)
+
 
