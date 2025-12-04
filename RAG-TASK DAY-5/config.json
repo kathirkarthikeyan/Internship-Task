@@ -1,0 +1,12 @@
+{
+    "input_dir": "./input_pdf",
+    "output_dir": "./output",
+    "log_dir": "./logs",
+
+    "chunks_json": "./output/chunks/chunks.json",
+    "faiss_index_path": "./output/faiss/faiss.index",
+
+    "embedding_model": "all-MiniLM-L6-v2",
+    "chunk_size": 400,
+    "top_k": 5
+}

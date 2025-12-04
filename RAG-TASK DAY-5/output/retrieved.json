@@ -1,0 +1,32 @@
+[
+    {
+        "rank": 1,
+        "chunk_id": 106,
+        "distance": 1.3109954595565796,
+        "text": "Review of patient's allergies indicates:\nNo Known Allergies\nPhysical Examination\nVitals:\n10/09/24 0823\nBP: 133/63\nPulse: 62\nResp: 16\nSpO2: (!) 94%\nWeight: 84"
+    },
+    {
+        "rank": 2,
+        "chunk_id": 179,
+        "distance": 1.3390276432037354,
+        "text": "9]\nSpecimen Information\nID Type Source Collected By\n24OLSH- Blood Blood 10/09/24 0846\n283H0221\nCBC Auto Differential [1096741733]\nCBC with Differential [1180377578] (Abnormal) Resulted: 10/09/24 1926, Result status: Final result\nOrder status: Completed Filed by: Lab, Background User 10/09/24 1926\nCollected by: Brown, Shaquerra, CMA 10/09/24 0846 Resulting lab: OCHSNER LSU HEALTH SHREVEPORT\nComponents\nReference\nComponent Value Range Flag Lab\nWBC 8"
+    },
+    {
+        "rank": 3,
+        "chunk_id": 254,
+        "distance": 1.3694121837615967,
+        "text": "9]\nSpecimen Information\nID Type Draw Type Source Collected By\n24OLSH- Blood Venipuncture Blood Brown, Shaquerra, CMA\n283H0221 10/09/24 0846\nCBC with Differential [1180377578] (Abnormal) Resulted: 10/09/24 1926, Result status: Final result\nOrder status: Completed Filed by: Lab, Background User 10/09/24 1926\nCollected by: Brown, Shaquerra, CMA 10/09/24 0846 Resulting lab: OCHSNER LSU HEALTH SHREVEPORT\nComponents\nComponent Value Reference Range Flag Lab\nWBC 8"
+    },
+    {
+        "rank": 4,
+        "chunk_id": 131,
+        "distance": 1.4551219940185547,
+        "text": "9]\nSpecimen Information\nID Type Draw Type Source Collected By\n24OLSH- Blood Venipuncture Blood Brown, Shaquerra, CMA\n283C0337 10/09/24 0846\nHemoglobin A1C [1096741731] (Abnormal) Resulted: 10/09/24 2003, Result status: Final result\nOrder status: Completed Filed by: Lab, Background User 10/09/24 2003\nCollected by: Brown, Shaquerra, CMA 10/09/24 0846 Resulting lab: OCHSNER LSU HEALTH SHREVEPORT\nComponents\nComponent Value Reference Range Flag Lab\nHemoglobin A1c 7"
+    },
+    {
+        "rank": 5,
+        "chunk_id": 121,
+        "distance": 1.4596505165100098,
+        "text": "Please review within this context and contact this physician if you find or perceive\nGenerated on 10/30/24 11:39 AM Page 6"
+    }
+]

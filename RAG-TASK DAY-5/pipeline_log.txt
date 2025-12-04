@@ -1,0 +1,27 @@
+2025-12-04 16:14:07.804006 - ===== Pipeline Started =====
+2025-12-04 16:14:58.304008 - ===== Pipeline Started =====
+2025-12-04 16:14:58.304008 - Processing PDF: AI_11_ISC_2.pdf
+2025-12-04 16:14:58.314027 - PDF validated: ./input_pdf\AI_11_ISC_2.pdf
+2025-12-04 16:14:58.314027 - Extracting text from PDF: ./input_pdf\AI_11_ISC_2.pdf
+2025-12-04 16:14:59.509602 - Extracted text from 12 pages.
+2025-12-04 16:14:59.512698 - Starting recursive chunking...
+2025-12-04 16:14:59.514705 - Total chunks created: 313
+2025-12-04 16:14:59.516716 - Chunks saved to: ./output/chunks/chunks.json
+2025-12-04 16:14:59.516716 - Generating embeddings using model: all-MiniLM-L6-v2
+2025-12-04 16:15:08.647539 - Generated 313 embeddings.
+2025-12-04 16:15:08.649546 - Building FAISS IndexFlatL2...
+2025-12-04 16:15:08.650051 - FAISS index saved at: ./output/faiss/faiss.index
+2025-12-04 16:15:27.579788 - Searching for query: Extract Vitals
+2025-12-04 16:15:33.838938 - Search results saved to: ./output\retrieved.json
+2025-12-04 17:25:56.191706 - ===== Pipeline Started =====
+2025-12-04 17:25:56.194642 - Processing PDF: AI_11_ISC_2.pdf
+2025-12-04 17:25:56.194642 - PDF validated: ./input_pdf\AI_11_ISC_2.pdf
+2025-12-04 17:25:56.194642 - Extracting text from PDF: ./input_pdf\AI_11_ISC_2.pdf
+2025-12-04 17:25:57.454192 - Extracted text from 12 pages.
+2025-12-04 17:25:57.455191 - Starting recursive chunking...
+2025-12-04 17:25:57.456823 - Total chunks created: 313
+2025-12-04 17:25:57.458874 - Chunks saved to: ./output/chunks/chunks.json
+2025-12-04 17:25:57.459875 - Generating embeddings using model: all-MiniLM-L6-v2
+2025-12-04 17:26:14.899084 - Generated 313 embeddings.
+2025-12-04 17:26:14.901090 - Building FAISS IndexFlatL2...
+2025-12-04 17:26:14.903096 - FAISS index saved at: ./output/faiss/faiss.index
