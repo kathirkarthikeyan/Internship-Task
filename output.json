@@ -1,0 +1,15310 @@
+[
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/2024",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "office",
+    "tag": "O"
+  },
+  {
+    "token": "visit",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport-provenance",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "diagnoses",
+    "tag": "O"
+  },
+  {
+    "token": "codes",
+    "tag": "O"
+  },
+  {
+    "token": "comments",
+    "tag": "O"
+  },
+  {
+    "token": "hyperlipidemia,",
+    "tag": "O"
+  },
+  {
+    "token": "unspecified",
+    "tag": "O"
+  },
+  {
+    "token": "hyperlipidemia",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "e78.5",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "272.4",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "250.40,",
+    "tag": "O"
+  },
+  {
+    "token": "791.0",
+    "tag": "O"
+  },
+  {
+    "token": "problem",
+    "tag": "O"
+  },
+  {
+    "token": "list",
+    "tag": "O"
+  },
+  {
+    "token": "as",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "reviewed:",
+    "tag": "O"
+  },
+  {
+    "token": "4/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "codes",
+    "tag": "O"
+  },
+  {
+    "token": "priority",
+    "tag": "O"
+  },
+  {
+    "token": "class",
+    "tag": "O"
+  },
+  {
+    "token": "noted",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "resolved",
+    "tag": "O"
+  },
+  {
+    "token": "history",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "herpes",
+    "tag": "O"
+  },
+  {
+    "token": "zoster",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "z86.19",
+    "tag": "O"
+  },
+  {
+    "token": "12/31/1977",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "v12.09",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "e11.9",
+    "tag": "O"
+  },
+  {
+    "token": "1/1/1999",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "250.00",
+    "tag": "O"
+  },
+  {
+    "token": "history",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "colonic",
+    "tag": "O"
+  },
+  {
+    "token": "polyps",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "z86.0100",
+    "tag": "O"
+  },
+  {
+    "token": "12/31/2013",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "v12.72",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "overview",
+    "tag": "O"
+  },
+  {
+    "token": "signed",
+    "tag": "O"
+  },
+  {
+    "token": "7/3/2023",
+    "tag": "O"
+  },
+  {
+    "token": "8:12",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "removal",
+    "tag": "O"
+  },
+  {
+    "token": "reason:",
+    "tag": "O"
+  },
+  {
+    "token": "removed",
+    "tag": "O"
+  },
+  {
+    "token": "lipoma",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "forearm",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "d17.20",
+    "tag": "O"
+  },
+  {
+    "token": "10/1/2016",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "214.1",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "overview",
+    "tag": "O"
+  },
+  {
+    "token": "signed",
+    "tag": "O"
+  },
+  {
+    "token": "7/3/2023",
+    "tag": "O"
+  },
+  {
+    "token": "8:12",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "surgical",
+    "tag": "O"
+  },
+  {
+    "token": "removal",
+    "tag": "O"
+  },
+  {
+    "token": "removal",
+    "tag": "O"
+  },
+  {
+    "token": "reason:",
+    "tag": "O"
+  },
+  {
+    "token": "surgical",
+    "tag": "O"
+  },
+  {
+    "token": "removal",
+    "tag": "O"
+  },
+  {
+    "token": "contracture",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "skin",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "hand",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "l98.8",
+    "tag": "O"
+  },
+  {
+    "token": "11/30/2016",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "709.8",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "overview",
+    "tag": "O"
+  },
+  {
+    "token": "signed",
+    "tag": "O"
+  },
+  {
+    "token": "7/3/2023",
+    "tag": "O"
+  },
+  {
+    "token": "8:12",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "depuytrens",
+    "tag": "O"
+  },
+  {
+    "token": "left",
+    "tag": "O"
+  },
+  {
+    "token": "hand",
+    "tag": "O"
+  },
+  {
+    "token": "nephropathy",
+    "tag": "O"
+  },
+  {
+    "token": "due",
+    "tag": "O"
+  },
+  {
+    "token": "to",
+    "tag": "O"
+  },
+  {
+    "token": "secondary",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "e13.21",
+    "tag": "O"
+  },
+  {
+    "token": "6/7/2021",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "249.40,",
+    "tag": "O"
+  },
+  {
+    "token": "583.81",
+    "tag": "O"
+  },
+  {
+    "token": "ophthalmic",
+    "tag": "O"
+  },
+  {
+    "token": "herpes",
+    "tag": "O"
+  },
+  {
+    "token": "simplex",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "b00.50",
+    "tag": "O"
+  },
+  {
+    "token": "10/27/2021",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "054.40",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "overview",
+    "tag": "O"
+  },
+  {
+    "token": "signed",
+    "tag": "O"
+  },
+  {
+    "token": "7/3/2023",
+    "tag": "O"
+  },
+  {
+    "token": "8:12",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "(10/2021)",
+    "tag": "O"
+  },
+  {
+    "token": "right",
+    "tag": "O"
+  },
+  {
+    "token": "eye",
+    "tag": "O"
+  },
+  {
+    "token": "diverticular",
+    "tag": "O"
+  },
+  {
+    "token": "disease",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "k57.90",
+    "tag": "O"
+  },
+  {
+    "token": "8/17/2022",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "562.10",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "hyperlipidemia",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "e78.5",
+    "tag": "O"
+  },
+  {
+    "token": "8/17/2022",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "272.4",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "hypertensive",
+    "tag": "O"
+  },
+  {
+    "token": "disorder",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "i10",
+    "tag": "O"
+  },
+  {
+    "token": "8/17/2022",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "401.9",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "ulcerative",
+    "tag": "O"
+  },
+  {
+    "token": "proctocolitis",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "k51.30",
+    "tag": "O"
+  },
+  {
+    "token": "8/17/2022",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "556.2",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "resolved:",
+    "tag": "O"
+  },
+  {
+    "token": "bilateral",
+    "tag": "O"
+  },
+  {
+    "token": "tinnitus",
+    "tag": "O"
+  },
+  {
+    "token": "icd-10-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "h93.13",
+    "tag": "O"
+  },
+  {
+    "token": "1/1/2003",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "icd-9-cm:",
+    "tag": "O"
+  },
+  {
+    "token": "388.30",
+    "tag": "O"
+  },
+  {
+    "token": "8/17/2022",
+    "tag": "O"
+  },
+  {
+    "token": "patient",
+    "tag": "O"
+  },
+  {
+    "token": "as-of",
+    "tag": "O"
+  },
+  {
+    "token": "visit",
+    "tag": "O"
+  },
+  {
+    "token": "allergies",
+    "tag": "O"
+  },
+  {
+    "token": "as",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "allergies",
+    "tag": "O"
+  },
+  {
+    "token": "last",
+    "tag": "O"
+  },
+  {
+    "token": "reviewed",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "4/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "1041",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "known",
+    "tag": "O"
+  },
+  {
+    "token": "allergies",
+    "tag": "O"
+  },
+  {
+    "token": "immunizations",
+    "tag": "O"
+  },
+  {
+    "token": "as",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "immunization",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/2024",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "office",
+    "tag": "O"
+  },
+  {
+    "token": "visit",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport-provenance",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "patient",
+    "tag": "O"
+  },
+  {
+    "token": "as-of",
+    "tag": "O"
+  },
+  {
+    "token": "visit",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "covid-19,",
+    "tag": "O"
+  },
+  {
+    "token": "vector-nr,",
+    "tag": "O"
+  },
+  {
+    "token": "rs-ad26,",
+    "tag": "O"
+  },
+  {
+    "token": "pf",
+    "tag": "O"
+  },
+  {
+    "token": "(janssen)",
+    "tag": "O"
+  },
+  {
+    "token": "03/20/2021,",
+    "tag": "O"
+  },
+  {
+    "token": "12/24/2021",
+    "tag": "O"
+  },
+  {
+    "token": "influenza",
+    "tag": "O"
+  },
+  {
+    "token": "(fluad)",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "quadrivalent",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "adjuvanted",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "pf",
+    "tag": "O"
+  },
+  {
+    "token": "*preferred*",
+    "tag": "O"
+  },
+  {
+    "token": "10/24/2022,",
+    "tag": "O"
+  },
+  {
+    "token": "11/16/2023",
+    "tag": "O"
+  },
+  {
+    "token": "(65+)",
+    "tag": "O"
+  },
+  {
+    "token": "influenza",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "trivalent",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "afluria,",
+    "tag": "O"
+  },
+  {
+    "token": "fluzone",
+    "tag": "O"
+  },
+  {
+    "token": "mdv",
+    "tag": "O"
+  },
+  {
+    "token": "09/13/2018",
+    "tag": "O"
+  },
+  {
+    "token": "pneumococcal",
+    "tag": "O"
+  },
+  {
+    "token": "conjugate",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "20",
+    "tag": "O"
+  },
+  {
+    "token": "valent",
+    "tag": "O"
+  },
+  {
+    "token": "11/29/2022",
+    "tag": "O"
+  },
+  {
+    "token": "tdap",
+    "tag": "O"
+  },
+  {
+    "token": "01/01/2016",
+    "tag": "O"
+  },
+  {
+    "token": "outpatient",
+    "tag": "O"
+  },
+  {
+    "token": "medications",
+    "tag": "O"
+  },
+  {
+    "token": "at",
+    "tag": "O"
+  },
+  {
+    "token": "start",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "encounter",
+    "tag": "O"
+  },
+  {
+    "token": "as",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "disp",
+    "tag": "O"
+  },
+  {
+    "token": "refills",
+    "tag": "O"
+  },
+  {
+    "token": "start",
+    "tag": "O"
+  },
+  {
+    "token": "end",
+    "tag": "O"
+  },
+  {
+    "token": "aspirin",
+    "tag": "O"
+  },
+  {
+    "token": "81",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "chew",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "tablets",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "class:",
+    "tag": "O"
+  },
+  {
+    "token": "historical",
+    "tag": "O"
+  },
+  {
+    "token": "med",
+    "tag": "O"
+  },
+  {
+    "token": "cetirizine",
+    "tag": "O"
+  },
+  {
+    "token": "(zyrtec)",
+    "tag": "O"
+  },
+  {
+    "token": "10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "empagliflozin",
+    "tag": "O"
+  },
+  {
+    "token": "(jardiance)",
+    "tag": "O"
+  },
+  {
+    "token": "25",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(25",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "to",
+    "tag": "O"
+  },
+  {
+    "token": "pharmacy:",
+    "tag": "O"
+  },
+  {
+    "token": "dx",
+    "tag": "O"
+  },
+  {
+    "token": "code",
+    "tag": "O"
+  },
+  {
+    "token": "e11.9",
+    "tag": "O"
+  },
+  {
+    "token": "ezetimibe",
+    "tag": "O"
+  },
+  {
+    "token": "(zetia)",
+    "tag": "O"
+  },
+  {
+    "token": "10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "0",
+    "tag": "O"
+  },
+  {
+    "token": "8/16/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "every",
+    "tag": "O"
+  },
+  {
+    "token": "day",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "fosinopril",
+    "tag": "O"
+  },
+  {
+    "token": "(monopril)",
+    "tag": "O"
+  },
+  {
+    "token": "20",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "3",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(20",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "gabapentin",
+    "tag": "O"
+  },
+  {
+    "token": "(neurontin)",
+    "tag": "O"
+  },
+  {
+    "token": "300",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "capsule",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "capsule",
+    "tag": "O"
+  },
+  {
+    "token": "0",
+    "tag": "O"
+  },
+  {
+    "token": "6/29/2023",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "capsule",
+    "tag": "O"
+  },
+  {
+    "token": "(300",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "3",
+    "tag": "O"
+  },
+  {
+    "token": "(three)",
+    "tag": "O"
+  },
+  {
+    "token": "times",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "glipizide",
+    "tag": "O"
+  },
+  {
+    "token": "(glucotrol)",
+    "tag": "O"
+  },
+  {
+    "token": "10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tr24",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "180",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "4/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "(two)",
+    "tag": "O"
+  },
+  {
+    "token": "times",
+    "tag": "O"
+  },
+  {
+    "token": "daily",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "meals.",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "mesalamine",
+    "tag": "O"
+  },
+  {
+    "token": "(canasa)",
+    "tag": "O"
+  },
+  {
+    "token": "1000",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "supp",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "suppository",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "place",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "suppository",
+    "tag": "O"
+  },
+  {
+    "token": "(1,000",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "rectally",
+    "tag": "O"
+  },
+  {
+    "token": "nightly.",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "rectal",
+    "tag": "O"
+  },
+  {
+    "token": "rosuvastatin",
+    "tag": "O"
+  },
+  {
+    "token": "(crestor)",
+    "tag": "O"
+  },
+  {
+    "token": "40",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tab",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(40",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "sitagliptan-metformin",
+    "tag": "O"
+  },
+  {
+    "token": "(janumet)",
+    "tag": "O"
+  },
+  {
+    "token": "50-1,000",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "per",
+    "tag": "O"
+  },
+  {
+    "token": "180",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "3",
+    "tag": "O"
+  },
+  {
+    "token": "4/16/2024",
+    "tag": "O"
+  },
+  {
+    "token": "4/16/2025",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "(two)",
+    "tag": "O"
+  },
+  {
+    "token": "times",
+    "tag": "O"
+  },
+  {
+    "token": "daily",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "meals.",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "medications",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "patient",
+    "tag": "O"
+  },
+  {
+    "token": "reported",
+    "tag": "O"
+  },
+  {
+    "token": "taking",
+    "tag": "O"
+  },
+  {
+    "token": "disp",
+    "tag": "O"
+  },
+  {
+    "token": "refills",
+    "tag": "O"
+  },
+  {
+    "token": "start",
+    "tag": "O"
+  },
+  {
+    "token": "end",
+    "tag": "O"
+  },
+  {
+    "token": "aspirin",
+    "tag": "O"
+  },
+  {
+    "token": "81",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "chew",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "tablets",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "class:",
+    "tag": "O"
+  },
+  {
+    "token": "historical",
+    "tag": "O"
+  },
+  {
+    "token": "med",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "cetirizine",
+    "tag": "O"
+  },
+  {
+    "token": "(zyrtec)",
+    "tag": "O"
+  },
+  {
+    "token": "10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "empagliflozin",
+    "tag": "O"
+  },
+  {
+    "token": "(jardiance)",
+    "tag": "O"
+  },
+  {
+    "token": "25",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(25",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "to",
+    "tag": "O"
+  },
+  {
+    "token": "pharmacy:",
+    "tag": "O"
+  },
+  {
+    "token": "dx",
+    "tag": "O"
+  },
+  {
+    "token": "code",
+    "tag": "O"
+  },
+  {
+    "token": "e11.9",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "ezetimibe",
+    "tag": "O"
+  },
+  {
+    "token": "(zetia)",
+    "tag": "O"
+  },
+  {
+    "token": "10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "0",
+    "tag": "O"
+  },
+  {
+    "token": "8/16/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "every",
+    "tag": "O"
+  },
+  {
+    "token": "day",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "fosinopril",
+    "tag": "O"
+  },
+  {
+    "token": "(monopril)",
+    "tag": "O"
+  },
+  {
+    "token": "20",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "3",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(20",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "gabapentin",
+    "tag": "O"
+  },
+  {
+    "token": "(neurontin)",
+    "tag": "O"
+  },
+  {
+    "token": "300",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "capsule",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "capsule",
+    "tag": "O"
+  },
+  {
+    "token": "0",
+    "tag": "O"
+  },
+  {
+    "token": "6/29/2023",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "capsule",
+    "tag": "O"
+  },
+  {
+    "token": "(300",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "3",
+    "tag": "O"
+  },
+  {
+    "token": "(three)",
+    "tag": "O"
+  },
+  {
+    "token": "times",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "glipizide",
+    "tag": "O"
+  },
+  {
+    "token": "(glucotrol)",
+    "tag": "O"
+  },
+  {
+    "token": "10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tr24",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "180",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "4/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "(two)",
+    "tag": "O"
+  },
+  {
+    "token": "times",
+    "tag": "O"
+  },
+  {
+    "token": "daily",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "meals.",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/2024",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "office",
+    "tag": "O"
+  },
+  {
+    "token": "visit",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport-provenance",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "medications",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "patient",
+    "tag": "O"
+  },
+  {
+    "token": "reported",
+    "tag": "O"
+  },
+  {
+    "token": "taking",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "disp",
+    "tag": "O"
+  },
+  {
+    "token": "refills",
+    "tag": "O"
+  },
+  {
+    "token": "start",
+    "tag": "O"
+  },
+  {
+    "token": "end",
+    "tag": "O"
+  },
+  {
+    "token": "mesalamine",
+    "tag": "O"
+  },
+  {
+    "token": "(canasa)",
+    "tag": "O"
+  },
+  {
+    "token": "1000",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "supp",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "suppository",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig:",
+    "tag": "O"
+  },
+  {
+    "token": "place",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "suppository",
+    "tag": "O"
+  },
+  {
+    "token": "(1,000",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "rectally",
+    "tag": "O"
+  },
+  {
+    "token": "nightly.",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "rectal",
+    "tag": "O"
+  },
+  {
+    "token": "rosuvastatin",
+    "tag": "O"
+  },
+  {
+    "token": "(crestor)",
+    "tag": "O"
+  },
+  {
+    "token": "40",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tab",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "sig:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(40",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "sitagliptan-metformin",
+    "tag": "O"
+  },
+  {
+    "token": "(janumet)",
+    "tag": "O"
+  },
+  {
+    "token": "50-1,000",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "per",
+    "tag": "O"
+  },
+  {
+    "token": "180",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "3",
+    "tag": "O"
+  },
+  {
+    "token": "4/16/2024",
+    "tag": "O"
+  },
+  {
+    "token": "4/16/2025",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(taking)",
+    "tag": "O"
+  },
+  {
+    "token": "sig:",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "(two)",
+    "tag": "O"
+  },
+  {
+    "token": "times",
+    "tag": "O"
+  },
+  {
+    "token": "daily",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "meals.",
+    "tag": "O"
+  },
+  {
+    "token": "route:",
+    "tag": "O"
+  },
+  {
+    "token": "oral",
+    "tag": "O"
+  },
+  {
+    "token": "progress",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "progress",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "at",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "8:15",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "author:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "service:",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "author",
+    "tag": "O"
+  },
+  {
+    "token": "type:",
+    "tag": "O"
+  },
+  {
+    "token": "physician",
+    "tag": "O"
+  },
+  {
+    "token": "filed:",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "1:17",
+    "tag": "O"
+  },
+  {
+    "token": "pm",
+    "tag": "O"
+  },
+  {
+    "token": "encounter",
+    "tag": "O"
+  },
+  {
+    "token": "date:",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "creation",
+    "tag": "O"
+  },
+  {
+    "token": "time:",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "8:31",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "sign",
+    "tag": "O"
+  },
+  {
+    "token": "when",
+    "tag": "O"
+  },
+  {
+    "token": "signing",
+    "tag": "O"
+  },
+  {
+    "token": "visit",
+    "tag": "O"
+  },
+  {
+    "token": "editor:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "(physician)",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner-lsu",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "|",
+    "tag": "O"
+  },
+  {
+    "token": "provenance",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche',",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "name:",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "melvin",
+    "tag": "O"
+  },
+  {
+    "token": "preferred",
+    "tag": "O"
+  },
+  {
+    "token": "name:",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "melvin",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325",
+    "tag": "O"
+  },
+  {
+    "token": "date:",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/24",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "chief",
+    "tag": "O"
+  },
+  {
+    "token": "complaint",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "file.",
+    "tag": "O"
+  },
+  {
+    "token": "history",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "illness",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "melvin",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "a",
+    "tag": "O"
+  },
+  {
+    "token": "76",
+    "tag": "O"
+  },
+  {
+    "token": "y.o.",
+    "tag": "O"
+  },
+  {
+    "token": "white",
+    "tag": "O"
+  },
+  {
+    "token": "male",
+    "tag": "O"
+  },
+  {
+    "token": "who",
+    "tag": "O"
+  },
+  {
+    "token": "presents",
+    "tag": "O"
+  },
+  {
+    "token": "today",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "follow-up",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "chronic",
+    "tag": "O"
+  },
+  {
+    "token": "medical",
+    "tag": "O"
+  },
+  {
+    "token": "conditions.",
+    "tag": "O"
+  },
+  {
+    "token": "he",
+    "tag": "O"
+  },
+  {
+    "token": "denies",
+    "tag": "O"
+  },
+  {
+    "token": "any",
+    "tag": "O"
+  },
+  {
+    "token": "acute",
+    "tag": "O"
+  },
+  {
+    "token": "concerns",
+    "tag": "O"
+  },
+  {
+    "token": "or",
+    "tag": "O"
+  },
+  {
+    "token": "recent",
+    "tag": "O"
+  },
+  {
+    "token": "illnesses.",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "patient",
+    "tag": "O"
+  },
+  {
+    "token": "reports",
+    "tag": "O"
+  },
+  {
+    "token": "compliance",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "his",
+    "tag": "O"
+  },
+  {
+    "token": "medications.",
+    "tag": "O"
+  },
+  {
+    "token": "he",
+    "tag": "O"
+  },
+  {
+    "token": "denies",
+    "tag": "O"
+  },
+  {
+    "token": "any",
+    "tag": "O"
+  },
+  {
+    "token": "medication",
+    "tag": "O"
+  },
+  {
+    "token": "side",
+    "tag": "O"
+  },
+  {
+    "token": "effects.",
+    "tag": "O"
+  },
+  {
+    "token": "janumet",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "jardiance",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "walmart",
+    "tag": "O"
+  },
+  {
+    "token": "eye",
+    "tag": "O"
+  },
+  {
+    "token": "exam",
+    "tag": "O"
+  },
+  {
+    "token": "maybe",
+    "tag": "O"
+  },
+  {
+    "token": "4",
+    "tag": "O"
+  },
+  {
+    "token": "months",
+    "tag": "O"
+  },
+  {
+    "token": "ago",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "patient",
+    "tag": "O"
+  },
+  {
+    "token": "presents",
+    "tag": "O"
+  },
+  {
+    "token": "today",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "specific",
+    "tag": "O"
+  },
+  {
+    "token": "chief",
+    "tag": "O"
+  },
+  {
+    "token": "complaint.",
+    "tag": "O"
+  },
+  {
+    "token": "he",
+    "tag": "O"
+  },
+  {
+    "token": "denies",
+    "tag": "O"
+  },
+  {
+    "token": "any",
+    "tag": "O"
+  },
+  {
+    "token": "concerns",
+    "tag": "O"
+  },
+  {
+    "token": "or",
+    "tag": "O"
+  },
+  {
+    "token": "problems",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "his",
+    "tag": "O"
+  },
+  {
+    "token": "medications.",
+    "tag": "O"
+  },
+  {
+    "token": "he",
+    "tag": "O"
+  },
+  {
+    "token": "reports",
+    "tag": "O"
+  },
+  {
+    "token": "checking",
+    "tag": "O"
+  },
+  {
+    "token": "his",
+    "tag": "O"
+  },
+  {
+    "token": "blood",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "pressure",
+    "tag": "I-VIT"
+  },
+  {
+    "token": "at",
+    "tag": "O"
+  },
+  {
+    "token": "home",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "mainly",
+    "tag": "O"
+  },
+  {
+    "token": "focused",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "his",
+    "tag": "O"
+  },
+  {
+    "token": "a1c",
+    "tag": "O"
+  },
+  {
+    "token": "levels.",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "patient",
+    "tag": "O"
+  },
+  {
+    "token": "admits",
+    "tag": "O"
+  },
+  {
+    "token": "to",
+    "tag": "O"
+  },
+  {
+    "token": "not",
+    "tag": "O"
+  },
+  {
+    "token": "checking",
+    "tag": "O"
+  },
+  {
+    "token": "his",
+    "tag": "O"
+  },
+  {
+    "token": "blood",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "sugars",
+    "tag": "O"
+  },
+  {
+    "token": "regularly.",
+    "tag": "O"
+  },
+  {
+    "token": "he",
+    "tag": "O"
+  },
+  {
+    "token": "mentions",
+    "tag": "O"
+  },
+  {
+    "token": "walking",
+    "tag": "O"
+  },
+  {
+    "token": "two",
+    "tag": "O"
+  },
+  {
+    "token": "miles",
+    "tag": "O"
+  },
+  {
+    "token": "daily",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "past",
+    "tag": "O"
+  },
+  {
+    "token": "six",
+    "tag": "O"
+  },
+  {
+    "token": "to",
+    "tag": "O"
+  },
+  {
+    "token": "eight",
+    "tag": "O"
+  },
+  {
+    "token": "months.",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "patient",
+    "tag": "O"
+  },
+  {
+    "token": "declines",
+    "tag": "O"
+  },
+  {
+    "token": "a",
+    "tag": "O"
+  },
+  {
+    "token": "flu",
+    "tag": "O"
+  },
+  {
+    "token": "shot",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "has",
+    "tag": "O"
+  },
+  {
+    "token": "not",
+    "tag": "O"
+  },
+  {
+    "token": "seen",
+    "tag": "O"
+  },
+  {
+    "token": "an",
+    "tag": "O"
+  },
+  {
+    "token": "eye",
+    "tag": "O"
+  },
+  {
+    "token": "doctor",
+    "tag": "O"
+  },
+  {
+    "token": "this",
+    "tag": "O"
+  },
+  {
+    "token": "year.",
+    "tag": "O"
+  },
+  {
+    "token": "he",
+    "tag": "O"
+  },
+  {
+    "token": "experiences",
+    "tag": "O"
+  },
+  {
+    "token": "occasional",
+    "tag": "O"
+  },
+  {
+    "token": "dizziness,",
+    "tag": "O"
+  },
+  {
+    "token": "particularly",
+    "tag": "O"
+  },
+  {
+    "token": "after",
+    "tag": "O"
+  },
+  {
+    "token": "consuming",
+    "tag": "O"
+  },
+  {
+    "token": "sugary",
+    "tag": "O"
+  },
+  {
+    "token": "foods",
+    "tag": "O"
+  },
+  {
+    "token": "like",
+    "tag": "O"
+  },
+  {
+    "token": "cake,",
+    "tag": "O"
+  },
+  {
+    "token": "but",
+    "tag": "O"
+  },
+  {
+    "token": "denies",
+    "tag": "O"
+  },
+  {
+    "token": "any",
+    "tag": "O"
+  },
+  {
+    "token": "trouble",
+    "tag": "O"
+  },
+  {
+    "token": "breathing,",
+    "tag": "O"
+  },
+  {
+    "token": "new",
+    "tag": "O"
+  },
+  {
+    "token": "rashes,",
+    "tag": "O"
+  },
+  {
+    "token": "skin",
+    "tag": "O"
+  },
+  {
+    "token": "lesions,",
+    "tag": "O"
+  },
+  {
+    "token": "or",
+    "tag": "O"
+  },
+  {
+    "token": "vision",
+    "tag": "O"
+  },
+  {
+    "token": "changes.",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "3",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "progress",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "progress",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "at",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "8:15",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "patient",
+    "tag": "O"
+  },
+  {
+    "token": "confirms",
+    "tag": "O"
+  },
+  {
+    "token": "that",
+    "tag": "O"
+  },
+  {
+    "token": "he",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "still",
+    "tag": "O"
+  },
+  {
+    "token": "taking",
+    "tag": "O"
+  },
+  {
+    "token": "all",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "his",
+    "tag": "O"
+  },
+  {
+    "token": "prescribed",
+    "tag": "O"
+  },
+  {
+    "token": "medications",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "discusses",
+    "tag": "O"
+  },
+  {
+    "token": "concerns",
+    "tag": "O"
+  },
+  {
+    "token": "about",
+    "tag": "O"
+  },
+  {
+    "token": "medication",
+    "tag": "O"
+  },
+  {
+    "token": "refills",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "insurance",
+    "tag": "O"
+  },
+  {
+    "token": "caps",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "upcoming",
+    "tag": "O"
+  },
+  {
+    "token": "year.",
+    "tag": "O"
+  },
+  {
+    "token": "he",
+    "tag": "O"
+  },
+  {
+    "token": "believes",
+    "tag": "O"
+  },
+  {
+    "token": "he",
+    "tag": "O"
+  },
+  {
+    "token": "had",
+    "tag": "O"
+  },
+  {
+    "token": "a",
+    "tag": "O"
+  },
+  {
+    "token": "retinopathy",
+    "tag": "O"
+  },
+  {
+    "token": "screen",
+    "tag": "O"
+  },
+  {
+    "token": "done",
+    "tag": "O"
+  },
+  {
+    "token": "at",
+    "tag": "O"
+  },
+  {
+    "token": "an",
+    "tag": "O"
+  },
+  {
+    "token": "eye",
+    "tag": "O"
+  },
+  {
+    "token": "exam",
+    "tag": "O"
+  },
+  {
+    "token": "approximately",
+    "tag": "O"
+  },
+  {
+    "token": "four",
+    "tag": "O"
+  },
+  {
+    "token": "months",
+    "tag": "O"
+  },
+  {
+    "token": "ago",
+    "tag": "O"
+  },
+  {
+    "token": "but",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "unsure",
+    "tag": "O"
+  },
+  {
+    "token": "if",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "results",
+    "tag": "O"
+  },
+  {
+    "token": "were",
+    "tag": "O"
+  },
+  {
+    "token": "sent",
+    "tag": "O"
+  },
+  {
+    "token": "to",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "clinic.",
+    "tag": "O"
+  },
+  {
+    "token": "review",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "systems",
+    "tag": "O"
+  },
+  {
+    "token": "review",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "systems",
+    "tag": "O"
+  },
+  {
+    "token": "constitutional:",
+    "tag": "O"
+  },
+  {
+    "token": "negative",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "chills",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "fever.",
+    "tag": "O"
+  },
+  {
+    "token": "eyes:",
+    "tag": "O"
+  },
+  {
+    "token": "negative",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "visual",
+    "tag": "O"
+  },
+  {
+    "token": "disturbance.",
+    "tag": "O"
+  },
+  {
+    "token": "respiratory:",
+    "tag": "O"
+  },
+  {
+    "token": "negative",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "shortness",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "breath",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "stridor.",
+    "tag": "O"
+  },
+  {
+    "token": "cardiovascular:",
+    "tag": "O"
+  },
+  {
+    "token": "negative",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "chest",
+    "tag": "O"
+  },
+  {
+    "token": "pain",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "leg",
+    "tag": "O"
+  },
+  {
+    "token": "swelling.",
+    "tag": "O"
+  },
+  {
+    "token": "gastrointestinal:",
+    "tag": "O"
+  },
+  {
+    "token": "negative",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "constipation,",
+    "tag": "O"
+  },
+  {
+    "token": "diarrhea,",
+    "tag": "O"
+  },
+  {
+    "token": "nausea",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "vomiting.",
+    "tag": "O"
+  },
+  {
+    "token": "musculoskeletal:",
+    "tag": "O"
+  },
+  {
+    "token": "negative",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "gait",
+    "tag": "O"
+  },
+  {
+    "token": "problem.",
+    "tag": "O"
+  },
+  {
+    "token": "skin:",
+    "tag": "O"
+  },
+  {
+    "token": "negative",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "rash.",
+    "tag": "O"
+  },
+  {
+    "token": "neurological:",
+    "tag": "O"
+  },
+  {
+    "token": "positive",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "dizziness",
+    "tag": "O"
+  },
+  {
+    "token": "(when",
+    "tag": "O"
+  },
+  {
+    "token": "eating",
+    "tag": "O"
+  },
+  {
+    "token": "increased",
+    "tag": "O"
+  },
+  {
+    "token": "sugar).",
+    "tag": "O"
+  },
+  {
+    "token": "negative",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "syncope",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "light-headedness.",
+    "tag": "O"
+  },
+  {
+    "token": "medical",
+    "tag": "O"
+  },
+  {
+    "token": "/",
+    "tag": "O"
+  },
+  {
+    "token": "social",
+    "tag": "O"
+  },
+  {
+    "token": "/",
+    "tag": "O"
+  },
+  {
+    "token": "family",
+    "tag": "O"
+  },
+  {
+    "token": "history",
+    "tag": "O"
+  },
+  {
+    "token": "past",
+    "tag": "O"
+  },
+  {
+    "token": "medical",
+    "tag": "O"
+  },
+  {
+    "token": "history:",
+    "tag": "O"
+  },
+  {
+    "token": "diagnosis",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus,",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022hyperlipidemia",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022hypertension",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "past",
+    "tag": "O"
+  },
+  {
+    "token": "surgical",
+    "tag": "O"
+  },
+  {
+    "token": "history",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "file.",
+    "tag": "O"
+  },
+  {
+    "token": "social",
+    "tag": "O"
+  },
+  {
+    "token": "history",
+    "tag": "O"
+  },
+  {
+    "token": "tobacco",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022smoking",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "never",
+    "tag": "O"
+  },
+  {
+    "token": "passive",
+    "tag": "O"
+  },
+  {
+    "token": "exposure:",
+    "tag": "O"
+  },
+  {
+    "token": "never",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022smokeless",
+    "tag": "O"
+  },
+  {
+    "token": "tobacco:",
+    "tag": "O"
+  },
+  {
+    "token": "never",
+    "tag": "O"
+  },
+  {
+    "token": "substance",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "topics",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022alcohol",
+    "tag": "O"
+  },
+  {
+    "token": "use:",
+    "tag": "O"
+  },
+  {
+    "token": "yes",
+    "tag": "O"
+  },
+  {
+    "token": "comment:",
+    "tag": "O"
+  },
+  {
+    "token": "social",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022drug",
+    "tag": "O"
+  },
+  {
+    "token": "use:",
+    "tag": "O"
+  },
+  {
+    "token": "never",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "family",
+    "tag": "O"
+  },
+  {
+    "token": "history",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "file.",
+    "tag": "O"
+  },
+  {
+    "token": "medications",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "allergies",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "outpatient",
+    "tag": "O"
+  },
+  {
+    "token": "medications",
+    "tag": "O"
+  },
+  {
+    "token": "medication",
+    "tag": "O"
+  },
+  {
+    "token": "sig",
+    "tag": "O"
+  },
+  {
+    "token": "dispense",
+    "tag": "O"
+  },
+  {
+    "token": "refill",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022aspirin",
+    "tag": "O"
+  },
+  {
+    "token": "81",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "chew",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "tablets",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "4",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "progress",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "progress",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "at",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "8:15",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022cetirizine",
+    "tag": "O"
+  },
+  {
+    "token": "(zyrtec)",
+    "tag": "O"
+  },
+  {
+    "token": "10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022empagliflozin",
+    "tag": "O"
+  },
+  {
+    "token": "(jardiance)",
+    "tag": "O"
+  },
+  {
+    "token": "25",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(25",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022ezetimibe",
+    "tag": "O"
+  },
+  {
+    "token": "(zetia)",
+    "tag": "O"
+  },
+  {
+    "token": "10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "0",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "every",
+    "tag": "O"
+  },
+  {
+    "token": "day",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022fosinopril",
+    "tag": "O"
+  },
+  {
+    "token": "(monopril)",
+    "tag": "O"
+  },
+  {
+    "token": "20",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(20",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "3",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022gabapentin",
+    "tag": "O"
+  },
+  {
+    "token": "(neurontin)",
+    "tag": "O"
+  },
+  {
+    "token": "300",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "capsule",
+    "tag": "O"
+  },
+  {
+    "token": "(300",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "capsule",
+    "tag": "O"
+  },
+  {
+    "token": "0",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "capsule",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "3",
+    "tag": "O"
+  },
+  {
+    "token": "(three)",
+    "tag": "O"
+  },
+  {
+    "token": "times",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022glipizide",
+    "tag": "O"
+  },
+  {
+    "token": "(glucotrol)",
+    "tag": "O"
+  },
+  {
+    "token": "10",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(10",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "180",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tr24",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "(two)",
+    "tag": "O"
+  },
+  {
+    "token": "times",
+    "tag": "O"
+  },
+  {
+    "token": "daily",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "meals.",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022mesalamine",
+    "tag": "O"
+  },
+  {
+    "token": "(canasa)",
+    "tag": "O"
+  },
+  {
+    "token": "1000",
+    "tag": "O"
+  },
+  {
+    "token": "place",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "suppository",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "supp",
+    "tag": "O"
+  },
+  {
+    "token": "(1,000",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "suppository",
+    "tag": "O"
+  },
+  {
+    "token": "rectally",
+    "tag": "O"
+  },
+  {
+    "token": "nightly.",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022rosuvastatin",
+    "tag": "O"
+  },
+  {
+    "token": "(crestor)",
+    "tag": "O"
+  },
+  {
+    "token": "40",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "(40",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "90",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "tab",
+    "tag": "O"
+  },
+  {
+    "token": "total)",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "once",
+    "tag": "O"
+  },
+  {
+    "token": "daily.",
+    "tag": "O"
+  },
+  {
+    "token": "\u2022sitagliptan-metformin",
+    "tag": "O"
+  },
+  {
+    "token": "take",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "180",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "3",
+    "tag": "O"
+  },
+  {
+    "token": "(janumet)",
+    "tag": "O"
+  },
+  {
+    "token": "50-1,000",
+    "tag": "O"
+  },
+  {
+    "token": "mg",
+    "tag": "O"
+  },
+  {
+    "token": "per",
+    "tag": "O"
+  },
+  {
+    "token": "mouth",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "(two)",
+    "tag": "O"
+  },
+  {
+    "token": "times",
+    "tag": "O"
+  },
+  {
+    "token": "tablet",
+    "tag": "O"
+  },
+  {
+    "token": "daily",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "meals.",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "facility-administered",
+    "tag": "O"
+  },
+  {
+    "token": "medications",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "this",
+    "tag": "O"
+  },
+  {
+    "token": "visit.",
+    "tag": "O"
+  },
+  {
+    "token": "review",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "patient's",
+    "tag": "O"
+  },
+  {
+    "token": "allergies",
+    "tag": "O"
+  },
+  {
+    "token": "indicates:",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "known",
+    "tag": "O"
+  },
+  {
+    "token": "allergies",
+    "tag": "O"
+  },
+  {
+    "token": "physical",
+    "tag": "O"
+  },
+  {
+    "token": "examination",
+    "tag": "O"
+  },
+  {
+    "token": "vitals:",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0823",
+    "tag": "O"
+  },
+  {
+    "token": "bp:",
+    "tag": "O"
+  },
+  {
+    "token": "133/63",
+    "tag": "O"
+  },
+  {
+    "token": "pulse:",
+    "tag": "O"
+  },
+  {
+    "token": "62",
+    "tag": "O"
+  },
+  {
+    "token": "resp:",
+    "tag": "O"
+  },
+  {
+    "token": "16",
+    "tag": "O"
+  },
+  {
+    "token": "spo2:",
+    "tag": "O"
+  },
+  {
+    "token": "(!)",
+    "tag": "O"
+  },
+  {
+    "token": "94%",
+    "tag": "O"
+  },
+  {
+    "token": "weight:",
+    "tag": "O"
+  },
+  {
+    "token": "84.6",
+    "tag": "O"
+  },
+  {
+    "token": "kg",
+    "tag": "O"
+  },
+  {
+    "token": "(186",
+    "tag": "O"
+  },
+  {
+    "token": "lb",
+    "tag": "O"
+  },
+  {
+    "token": "9.6",
+    "tag": "O"
+  },
+  {
+    "token": "oz)",
+    "tag": "O"
+  },
+  {
+    "token": "body",
+    "tag": "O"
+  },
+  {
+    "token": "mass",
+    "tag": "O"
+  },
+  {
+    "token": "index",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "27.56",
+    "tag": "O"
+  },
+  {
+    "token": "kg/m\u00b2.",
+    "tag": "O"
+  },
+  {
+    "token": "physical",
+    "tag": "O"
+  },
+  {
+    "token": "exam",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "maintenance",
+    "tag": "O"
+  },
+  {
+    "token": "/",
+    "tag": "O"
+  },
+  {
+    "token": "imaging",
+    "tag": "O"
+  },
+  {
+    "token": "/",
+    "tag": "O"
+  },
+  {
+    "token": "labs",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "5",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "progress",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "progress",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "at",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "8:15",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "maintenance",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "due",
+    "tag": "O"
+  },
+  {
+    "token": "completion",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "eye",
+    "tag": "O"
+  },
+  {
+    "token": "exam",
+    "tag": "O"
+  },
+  {
+    "token": "never",
+    "tag": "O"
+  },
+  {
+    "token": "done",
+    "tag": "O"
+  },
+  {
+    "token": "---",
+    "tag": "O"
+  },
+  {
+    "token": "shingles",
+    "tag": "O"
+  },
+  {
+    "token": "vaccine",
+    "tag": "O"
+  },
+  {
+    "token": "(1",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "2)",
+    "tag": "O"
+  },
+  {
+    "token": "never",
+    "tag": "O"
+  },
+  {
+    "token": "done",
+    "tag": "O"
+  },
+  {
+    "token": "---",
+    "tag": "O"
+  },
+  {
+    "token": "rsv",
+    "tag": "O"
+  },
+  {
+    "token": "vaccine",
+    "tag": "O"
+  },
+  {
+    "token": "(age",
+    "tag": "O"
+  },
+  {
+    "token": "60+",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "pregnant",
+    "tag": "O"
+  },
+  {
+    "token": "never",
+    "tag": "O"
+  },
+  {
+    "token": "done",
+    "tag": "O"
+  },
+  {
+    "token": "---",
+    "tag": "O"
+  },
+  {
+    "token": "patients)",
+    "tag": "O"
+  },
+  {
+    "token": "(1",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "1-dose",
+    "tag": "O"
+  },
+  {
+    "token": "75+",
+    "tag": "O"
+  },
+  {
+    "token": "series)",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "urine",
+    "tag": "O"
+  },
+  {
+    "token": "screening",
+    "tag": "O"
+  },
+  {
+    "token": "07/03/2024",
+    "tag": "O"
+  },
+  {
+    "token": "7/3/2023",
+    "tag": "O"
+  },
+  {
+    "token": "lipid",
+    "tag": "O"
+  },
+  {
+    "token": "panel",
+    "tag": "O"
+  },
+  {
+    "token": "07/03/2024",
+    "tag": "O"
+  },
+  {
+    "token": "7/3/2023",
+    "tag": "O"
+  },
+  {
+    "token": "hemoglobin",
+    "tag": "O"
+  },
+  {
+    "token": "a1c",
+    "tag": "O"
+  },
+  {
+    "token": "07/08/2024",
+    "tag": "O"
+  },
+  {
+    "token": "4/8/2024",
+    "tag": "O"
+  },
+  {
+    "token": "influenza",
+    "tag": "O"
+  },
+  {
+    "token": "vaccine",
+    "tag": "O"
+  },
+  {
+    "token": "(1)",
+    "tag": "O"
+  },
+  {
+    "token": "09/01/2024",
+    "tag": "O"
+  },
+  {
+    "token": "11/16/2023",
+    "tag": "O"
+  },
+  {
+    "token": "covid-19",
+    "tag": "O"
+  },
+  {
+    "token": "vaccine",
+    "tag": "O"
+  },
+  {
+    "token": "(3",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "2024-25",
+    "tag": "O"
+  },
+  {
+    "token": "season)",
+    "tag": "O"
+  },
+  {
+    "token": "09/01/2024",
+    "tag": "O"
+  },
+  {
+    "token": "12/24/2021",
+    "tag": "O"
+  },
+  {
+    "token": "tetanus",
+    "tag": "O"
+  },
+  {
+    "token": "vaccine",
+    "tag": "O"
+  },
+  {
+    "token": "01/01/2026",
+    "tag": "O"
+  },
+  {
+    "token": "1/1/2016",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "results",
+    "tag": "O"
+  },
+  {
+    "token": "component",
+    "tag": "O"
+  },
+  {
+    "token": "value",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "hgba1c",
+    "tag": "O"
+  },
+  {
+    "token": "8.1",
+    "tag": "O"
+  },
+  {
+    "token": "(h)",
+    "tag": "O"
+  },
+  {
+    "token": "04/08/2024",
+    "tag": "O"
+  },
+  {
+    "token": "hgba1c",
+    "tag": "O"
+  },
+  {
+    "token": "7.9",
+    "tag": "O"
+  },
+  {
+    "token": "(h)",
+    "tag": "O"
+  },
+  {
+    "token": "10/04/2023",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "results",
+    "tag": "O"
+  },
+  {
+    "token": "component",
+    "tag": "O"
+  },
+  {
+    "token": "value",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "micalbcreat",
+    "tag": "O"
+  },
+  {
+    "token": "31.0",
+    "tag": "O"
+  },
+  {
+    "token": "(h)",
+    "tag": "O"
+  },
+  {
+    "token": "07/03/2023",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "results",
+    "tag": "O"
+  },
+  {
+    "token": "found",
+    "tag": "O"
+  },
+  {
+    "token": "for:",
+    "tag": "O"
+  },
+  {
+    "token": "\"lipidtotchol\",",
+    "tag": "O"
+  },
+  {
+    "token": "\"lipidldlchol\",",
+    "tag": "O"
+  },
+  {
+    "token": "\"lipidhdlchol\",",
+    "tag": "O"
+  },
+  {
+    "token": "\"lipidtrig\"",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "results",
+    "tag": "O"
+  },
+  {
+    "token": "found",
+    "tag": "O"
+  },
+  {
+    "token": "for:",
+    "tag": "O"
+  },
+  {
+    "token": "\"vitamind25hy\"",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "results",
+    "tag": "O"
+  },
+  {
+    "token": "component",
+    "tag": "O"
+  },
+  {
+    "token": "value",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "bun",
+    "tag": "O"
+  },
+  {
+    "token": "18",
+    "tag": "O"
+  },
+  {
+    "token": "04/08/2024",
+    "tag": "O"
+  },
+  {
+    "token": "creatinine",
+    "tag": "O"
+  },
+  {
+    "token": "0.8",
+    "tag": "O"
+  },
+  {
+    "token": "04/08/2024",
+    "tag": "O"
+  },
+  {
+    "token": "ast",
+    "tag": "O"
+  },
+  {
+    "token": "28",
+    "tag": "O"
+  },
+  {
+    "token": "04/08/2024",
+    "tag": "O"
+  },
+  {
+    "token": "alt",
+    "tag": "O"
+  },
+  {
+    "token": "36",
+    "tag": "O"
+  },
+  {
+    "token": "04/08/2024",
+    "tag": "O"
+  },
+  {
+    "token": "assessment",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "melvin",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "a",
+    "tag": "O"
+  },
+  {
+    "token": "76",
+    "tag": "O"
+  },
+  {
+    "token": "y.o.",
+    "tag": "O"
+  },
+  {
+    "token": "white",
+    "tag": "O"
+  },
+  {
+    "token": "male",
+    "tag": "O"
+  },
+  {
+    "token": "seen",
+    "tag": "O"
+  },
+  {
+    "token": "at",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "provenance",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "outpatient",
+    "tag": "O"
+  },
+  {
+    "token": "clinic",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "***",
+    "tag": "O"
+  },
+  {
+    "token": "plan",
+    "tag": "O"
+  },
+  {
+    "token": "***",
+    "tag": "O"
+  },
+  {
+    "token": "this",
+    "tag": "O"
+  },
+  {
+    "token": "note",
+    "tag": "O"
+  },
+  {
+    "token": "was",
+    "tag": "O"
+  },
+  {
+    "token": "transcribed",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "part,",
+    "tag": "O"
+  },
+  {
+    "token": "using",
+    "tag": "O"
+  },
+  {
+    "token": "a",
+    "tag": "O"
+  },
+  {
+    "token": "voice",
+    "tag": "O"
+  },
+  {
+    "token": "recognition",
+    "tag": "O"
+  },
+  {
+    "token": "system",
+    "tag": "O"
+  },
+  {
+    "token": "(m-modal).",
+    "tag": "O"
+  },
+  {
+    "token": "grammatical",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "content",
+    "tag": "O"
+  },
+  {
+    "token": "errors",
+    "tag": "O"
+  },
+  {
+    "token": "may",
+    "tag": "O"
+  },
+  {
+    "token": "have",
+    "tag": "O"
+  },
+  {
+    "token": "inadvertently",
+    "tag": "O"
+  },
+  {
+    "token": "been",
+    "tag": "O"
+  },
+  {
+    "token": "generated.",
+    "tag": "O"
+  },
+  {
+    "token": "please",
+    "tag": "O"
+  },
+  {
+    "token": "review",
+    "tag": "O"
+  },
+  {
+    "token": "within",
+    "tag": "O"
+  },
+  {
+    "token": "this",
+    "tag": "O"
+  },
+  {
+    "token": "context",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "contact",
+    "tag": "O"
+  },
+  {
+    "token": "this",
+    "tag": "O"
+  },
+  {
+    "token": "physician",
+    "tag": "O"
+  },
+  {
+    "token": "if",
+    "tag": "O"
+  },
+  {
+    "token": "you",
+    "tag": "O"
+  },
+  {
+    "token": "find",
+    "tag": "O"
+  },
+  {
+    "token": "or",
+    "tag": "O"
+  },
+  {
+    "token": "perceive",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "6",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "progress",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "progress",
+    "tag": "O"
+  },
+  {
+    "token": "notes",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "at",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "8:15",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "inappropriate",
+    "tag": "O"
+  },
+  {
+    "token": "information",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "report.",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "future",
+    "tag": "O"
+  },
+  {
+    "token": "appointments.",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche',",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "internal",
+    "tag": "O"
+  },
+  {
+    "token": "medicine-pediatrics",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "provenance",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/24",
+    "tag": "O"
+  },
+  {
+    "token": "labs",
+    "tag": "O"
+  },
+  {
+    "token": "hemoglobin",
+    "tag": "O"
+  },
+  {
+    "token": "a1c",
+    "tag": "O"
+  },
+  {
+    "token": "[1096741731]",
+    "tag": "O"
+  },
+  {
+    "token": "(final",
+    "tag": "O"
+  },
+  {
+    "token": "result)",
+    "tag": "O"
+  },
+  {
+    "token": "electronically",
+    "tag": "O"
+  },
+  {
+    "token": "signed",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0834",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "completed",
+    "tag": "O"
+  },
+  {
+    "token": "ordering",
+    "tag": "O"
+  },
+  {
+    "token": "user:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0834",
+    "tag": "O"
+  },
+  {
+    "token": "authorized",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "ordering",
+    "tag": "O"
+  },
+  {
+    "token": "mode:",
+    "tag": "O"
+  },
+  {
+    "token": "standard",
+    "tag": "O"
+  },
+  {
+    "token": "frequency:",
+    "tag": "O"
+  },
+  {
+    "token": "routine",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "class:",
+    "tag": "O"
+  },
+  {
+    "token": "clinic",
+    "tag": "O"
+  },
+  {
+    "token": "collect",
+    "tag": "O"
+  },
+  {
+    "token": "quantity:",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "final",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "diagnoses",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "[e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9]",
+    "tag": "O"
+  },
+  {
+    "token": "specimen",
+    "tag": "O"
+  },
+  {
+    "token": "information",
+    "tag": "O"
+  },
+  {
+    "token": "id",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "draw",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "source",
+    "tag": "O"
+  },
+  {
+    "token": "collected",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "24olsh-",
+    "tag": "O"
+  },
+  {
+    "token": "blood",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "venipuncture",
+    "tag": "O"
+  },
+  {
+    "token": "blood",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "brown,",
+    "tag": "O"
+  },
+  {
+    "token": "shaquerra,",
+    "tag": "O"
+  },
+  {
+    "token": "cma",
+    "tag": "O"
+  },
+  {
+    "token": "283c0337",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0846",
+    "tag": "O"
+  },
+  {
+    "token": "hemoglobin",
+    "tag": "O"
+  },
+  {
+    "token": "a1c",
+    "tag": "O"
+  },
+  {
+    "token": "[1096741731]",
+    "tag": "O"
+  },
+  {
+    "token": "(abnormal)",
+    "tag": "O"
+  },
+  {
+    "token": "resulted:",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "2003,",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "final",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "order",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "completed",
+    "tag": "O"
+  },
+  {
+    "token": "filed",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "lab,",
+    "tag": "O"
+  },
+  {
+    "token": "background",
+    "tag": "O"
+  },
+  {
+    "token": "user",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "2003",
+    "tag": "O"
+  },
+  {
+    "token": "collected",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "brown,",
+    "tag": "O"
+  },
+  {
+    "token": "shaquerra,",
+    "tag": "O"
+  },
+  {
+    "token": "cma",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0846",
+    "tag": "O"
+  },
+  {
+    "token": "resulting",
+    "tag": "O"
+  },
+  {
+    "token": "lab:",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "components",
+    "tag": "O"
+  },
+  {
+    "token": "component",
+    "tag": "O"
+  },
+  {
+    "token": "value",
+    "tag": "O"
+  },
+  {
+    "token": "reference",
+    "tag": "O"
+  },
+  {
+    "token": "range",
+    "tag": "O"
+  },
+  {
+    "token": "flag",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "hemoglobin",
+    "tag": "O"
+  },
+  {
+    "token": "a1c",
+    "tag": "O"
+  },
+  {
+    "token": "7.6",
+    "tag": "O"
+  },
+  {
+    "token": "4.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "5.6",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "h",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "comment:",
+    "tag": "O"
+  },
+  {
+    "token": "ada",
+    "tag": "O"
+  },
+  {
+    "token": "screening",
+    "tag": "O"
+  },
+  {
+    "token": "guidelines:",
+    "tag": "O"
+  },
+  {
+    "token": "5.7-6.4%",
+    "tag": "O"
+  },
+  {
+    "token": "consistent",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "prediabetes",
+    "tag": "O"
+  },
+  {
+    "token": ">=6.5%",
+    "tag": "O"
+  },
+  {
+    "token": "consistent",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "high",
+    "tag": "O"
+  },
+  {
+    "token": "levels",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "fetal",
+    "tag": "O"
+  },
+  {
+    "token": "hemoglobin",
+    "tag": "O"
+  },
+  {
+    "token": "interfere",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "hba1c",
+    "tag": "O"
+  },
+  {
+    "token": "assay.",
+    "tag": "O"
+  },
+  {
+    "token": "heterozygous",
+    "tag": "O"
+  },
+  {
+    "token": "hemoglobin",
+    "tag": "O"
+  },
+  {
+    "token": "variants",
+    "tag": "O"
+  },
+  {
+    "token": "(hbs,",
+    "tag": "O"
+  },
+  {
+    "token": "hgc,",
+    "tag": "O"
+  },
+  {
+    "token": "etc)do",
+    "tag": "O"
+  },
+  {
+    "token": "not",
+    "tag": "O"
+  },
+  {
+    "token": "significantly",
+    "tag": "O"
+  },
+  {
+    "token": "interfere",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "this",
+    "tag": "O"
+  },
+  {
+    "token": "assay.",
+    "tag": "O"
+  },
+  {
+    "token": "however,",
+    "tag": "O"
+  },
+  {
+    "token": "presence",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "multiple",
+    "tag": "O"
+  },
+  {
+    "token": "variants",
+    "tag": "O"
+  },
+  {
+    "token": "may",
+    "tag": "O"
+  },
+  {
+    "token": "affect",
+    "tag": "O"
+  },
+  {
+    "token": "accuracy.",
+    "tag": "O"
+  },
+  {
+    "token": "estimated",
+    "tag": "O"
+  },
+  {
+    "token": "average",
+    "tag": "O"
+  },
+  {
+    "token": "glucose",
+    "tag": "B-LAB"
+  },
+  {
+    "token": "171",
+    "tag": "O"
+  },
+  {
+    "token": "68",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "131",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "h",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "testing",
+    "tag": "O"
+  },
+  {
+    "token": "performed",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "abbreviation",
+    "tag": "O"
+  },
+  {
+    "token": "name",
+    "tag": "O"
+  },
+  {
+    "token": "director",
+    "tag": "O"
+  },
+  {
+    "token": "address",
+    "tag": "O"
+  },
+  {
+    "token": "valid",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "range",
+    "tag": "O"
+  },
+  {
+    "token": "650",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "unknown",
+    "tag": "O"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "04/27/23",
+    "tag": "O"
+  },
+  {
+    "token": "0824",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "71103",
+    "tag": "O"
+  },
+  {
+    "token": "indications",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "[e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9",
+    "tag": "O"
+  },
+  {
+    "token": "(icd-10-cm)]",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "7",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "labs",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "lipid",
+    "tag": "O"
+  },
+  {
+    "token": "panel",
+    "tag": "O"
+  },
+  {
+    "token": "[1096741732]",
+    "tag": "O"
+  },
+  {
+    "token": "(final",
+    "tag": "O"
+  },
+  {
+    "token": "result)",
+    "tag": "O"
+  },
+  {
+    "token": "electronically",
+    "tag": "O"
+  },
+  {
+    "token": "signed",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0834",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "completed",
+    "tag": "O"
+  },
+  {
+    "token": "ordering",
+    "tag": "O"
+  },
+  {
+    "token": "user:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0834",
+    "tag": "O"
+  },
+  {
+    "token": "authorized",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "ordering",
+    "tag": "O"
+  },
+  {
+    "token": "mode:",
+    "tag": "O"
+  },
+  {
+    "token": "standard",
+    "tag": "O"
+  },
+  {
+    "token": "frequency:",
+    "tag": "O"
+  },
+  {
+    "token": "routine",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "class:",
+    "tag": "O"
+  },
+  {
+    "token": "clinic",
+    "tag": "O"
+  },
+  {
+    "token": "collect",
+    "tag": "O"
+  },
+  {
+    "token": "quantity:",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "final",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "diagnoses",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "[e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9]",
+    "tag": "O"
+  },
+  {
+    "token": "specimen",
+    "tag": "O"
+  },
+  {
+    "token": "information",
+    "tag": "O"
+  },
+  {
+    "token": "id",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "draw",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "source",
+    "tag": "O"
+  },
+  {
+    "token": "collected",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "24olsh-",
+    "tag": "O"
+  },
+  {
+    "token": "blood",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "venipuncture",
+    "tag": "O"
+  },
+  {
+    "token": "blood",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "brown,",
+    "tag": "O"
+  },
+  {
+    "token": "shaquerra,",
+    "tag": "O"
+  },
+  {
+    "token": "cma",
+    "tag": "O"
+  },
+  {
+    "token": "283c0336",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0846",
+    "tag": "O"
+  },
+  {
+    "token": "lipid",
+    "tag": "O"
+  },
+  {
+    "token": "panel",
+    "tag": "O"
+  },
+  {
+    "token": "[1096741732]",
+    "tag": "O"
+  },
+  {
+    "token": "(abnormal)",
+    "tag": "O"
+  },
+  {
+    "token": "resulted:",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "1956,",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "final",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "order",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "completed",
+    "tag": "O"
+  },
+  {
+    "token": "filed",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "lab,",
+    "tag": "O"
+  },
+  {
+    "token": "background",
+    "tag": "O"
+  },
+  {
+    "token": "user",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "1956",
+    "tag": "O"
+  },
+  {
+    "token": "collected",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "brown,",
+    "tag": "O"
+  },
+  {
+    "token": "shaquerra,",
+    "tag": "O"
+  },
+  {
+    "token": "cma",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0846",
+    "tag": "O"
+  },
+  {
+    "token": "resulting",
+    "tag": "O"
+  },
+  {
+    "token": "lab:",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "components",
+    "tag": "O"
+  },
+  {
+    "token": "component",
+    "tag": "O"
+  },
+  {
+    "token": "value",
+    "tag": "O"
+  },
+  {
+    "token": "reference",
+    "tag": "O"
+  },
+  {
+    "token": "range",
+    "tag": "O"
+  },
+  {
+    "token": "flag",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "total",
+    "tag": "O"
+  },
+  {
+    "token": "100",
+    "tag": "O"
+  },
+  {
+    "token": "120",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "199",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "l",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "comment:",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "national",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "education",
+    "tag": "O"
+  },
+  {
+    "token": "program",
+    "tag": "O"
+  },
+  {
+    "token": "(ncep)",
+    "tag": "O"
+  },
+  {
+    "token": "has",
+    "tag": "O"
+  },
+  {
+    "token": "set",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "following",
+    "tag": "O"
+  },
+  {
+    "token": "guidelines",
+    "tag": "O"
+  },
+  {
+    "token": "(reference",
+    "tag": "O"
+  },
+  {
+    "token": "ranges)",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol:",
+    "tag": "O"
+  },
+  {
+    "token": "optimal.....................<200",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "borderline",
+    "tag": "O"
+  },
+  {
+    "token": "high.............200-239",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "high........................>",
+    "tag": "O"
+  },
+  {
+    "token": "or",
+    "tag": "O"
+  },
+  {
+    "token": "=",
+    "tag": "O"
+  },
+  {
+    "token": "240",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "triglyceride",
+    "tag": "O"
+  },
+  {
+    "token": "262",
+    "tag": "O"
+  },
+  {
+    "token": "30",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "150",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "h",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "comment:",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "national",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "education",
+    "tag": "O"
+  },
+  {
+    "token": "program",
+    "tag": "O"
+  },
+  {
+    "token": "(ncep)",
+    "tag": "O"
+  },
+  {
+    "token": "has",
+    "tag": "O"
+  },
+  {
+    "token": "set",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "following",
+    "tag": "O"
+  },
+  {
+    "token": "guidelines",
+    "tag": "O"
+  },
+  {
+    "token": "(reference",
+    "tag": "O"
+  },
+  {
+    "token": "values)",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "triglycerides:",
+    "tag": "O"
+  },
+  {
+    "token": "normal......................<150",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "borderline",
+    "tag": "O"
+  },
+  {
+    "token": "high.............150-199",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "high........................200-499",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "hdl",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "25",
+    "tag": "O"
+  },
+  {
+    "token": "40",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "75",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "l",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "comment:",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "national",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "education",
+    "tag": "O"
+  },
+  {
+    "token": "program",
+    "tag": "O"
+  },
+  {
+    "token": "(ncep)",
+    "tag": "O"
+  },
+  {
+    "token": "has",
+    "tag": "O"
+  },
+  {
+    "token": "set",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "following",
+    "tag": "O"
+  },
+  {
+    "token": "guidelines",
+    "tag": "O"
+  },
+  {
+    "token": "(reference",
+    "tag": "O"
+  },
+  {
+    "token": "values)",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "hdl",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol:",
+    "tag": "O"
+  },
+  {
+    "token": "low...............<40",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "optimal...........>60",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "ldl",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "direct",
+    "tag": "O"
+  },
+  {
+    "token": "50.0",
+    "tag": "O"
+  },
+  {
+    "token": "63.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "159.0",
+    "tag": "O"
+  },
+  {
+    "token": "l",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "comment:",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "national",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "education",
+    "tag": "O"
+  },
+  {
+    "token": "program",
+    "tag": "O"
+  },
+  {
+    "token": "(ncep)",
+    "tag": "O"
+  },
+  {
+    "token": "has",
+    "tag": "O"
+  },
+  {
+    "token": "set",
+    "tag": "O"
+  },
+  {
+    "token": "the",
+    "tag": "O"
+  },
+  {
+    "token": "following",
+    "tag": "O"
+  },
+  {
+    "token": "guidelines",
+    "tag": "O"
+  },
+  {
+    "token": "(reference",
+    "tag": "O"
+  },
+  {
+    "token": "values)",
+    "tag": "O"
+  },
+  {
+    "token": "for",
+    "tag": "O"
+  },
+  {
+    "token": "ldl",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol:",
+    "tag": "O"
+  },
+  {
+    "token": "optimal.......................<130",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "borderline",
+    "tag": "O"
+  },
+  {
+    "token": "high...............130-159",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "high..........................160-189",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "very",
+    "tag": "O"
+  },
+  {
+    "token": "high.....................>190",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "hdl/cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "ratio",
+    "tag": "O"
+  },
+  {
+    "token": "25.0",
+    "tag": "O"
+  },
+  {
+    "token": "20.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "50.0",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol/hdl",
+    "tag": "O"
+  },
+  {
+    "token": "ratio",
+    "tag": "O"
+  },
+  {
+    "token": "4.0",
+    "tag": "O"
+  },
+  {
+    "token": "2.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "5.0",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "non",
+    "tag": "O"
+  },
+  {
+    "token": "hdl",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "75",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "comment:",
+    "tag": "O"
+  },
+  {
+    "token": "risk",
+    "tag": "O"
+  },
+  {
+    "token": "category",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "non-hdl",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "goals:",
+    "tag": "O"
+  },
+  {
+    "token": "coronary",
+    "tag": "O"
+  },
+  {
+    "token": "heart",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "disease",
+    "tag": "O"
+  },
+  {
+    "token": "(chd)or",
+    "tag": "O"
+  },
+  {
+    "token": "equivalent",
+    "tag": "O"
+  },
+  {
+    "token": "(10-year",
+    "tag": "O"
+  },
+  {
+    "token": "risk",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "chd",
+    "tag": "O"
+  },
+  {
+    "token": ">20%):",
+    "tag": "O"
+  },
+  {
+    "token": "non-hdl",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "goal",
+    "tag": "O"
+  },
+  {
+    "token": "<130",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "two",
+    "tag": "O"
+  },
+  {
+    "token": "or",
+    "tag": "O"
+  },
+  {
+    "token": "more",
+    "tag": "O"
+  },
+  {
+    "token": "chd",
+    "tag": "O"
+  },
+  {
+    "token": "risk",
+    "tag": "O"
+  },
+  {
+    "token": "factors",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "10-year",
+    "tag": "O"
+  },
+  {
+    "token": "risk",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "chd",
+    "tag": "O"
+  },
+  {
+    "token": "<=",
+    "tag": "O"
+  },
+  {
+    "token": "20%:",
+    "tag": "O"
+  },
+  {
+    "token": "non-hdl",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "goal",
+    "tag": "O"
+  },
+  {
+    "token": "<160",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "0",
+    "tag": "O"
+  },
+  {
+    "token": "to",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "chd",
+    "tag": "O"
+  },
+  {
+    "token": "risk",
+    "tag": "O"
+  },
+  {
+    "token": "factor:",
+    "tag": "O"
+  },
+  {
+    "token": "non-hdl",
+    "tag": "O"
+  },
+  {
+    "token": "cholesterol",
+    "tag": "O"
+  },
+  {
+    "token": "goal",
+    "tag": "O"
+  },
+  {
+    "token": "<190",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "8",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "labs",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "testing",
+    "tag": "O"
+  },
+  {
+    "token": "performed",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "abbreviation",
+    "tag": "O"
+  },
+  {
+    "token": "name",
+    "tag": "O"
+  },
+  {
+    "token": "director",
+    "tag": "O"
+  },
+  {
+    "token": "address",
+    "tag": "O"
+  },
+  {
+    "token": "valid",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "range",
+    "tag": "O"
+  },
+  {
+    "token": "650",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "unknown",
+    "tag": "O"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "04/27/23",
+    "tag": "O"
+  },
+  {
+    "token": "0824",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "71103",
+    "tag": "O"
+  },
+  {
+    "token": "indications",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "[e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9",
+    "tag": "O"
+  },
+  {
+    "token": "(icd-10-cm)]",
+    "tag": "O"
+  },
+  {
+    "token": "cbc",
+    "tag": "O"
+  },
+  {
+    "token": "auto",
+    "tag": "O"
+  },
+  {
+    "token": "differential",
+    "tag": "O"
+  },
+  {
+    "token": "[1096741733]",
+    "tag": "O"
+  },
+  {
+    "token": "(final",
+    "tag": "O"
+  },
+  {
+    "token": "result)",
+    "tag": "O"
+  },
+  {
+    "token": "electronically",
+    "tag": "O"
+  },
+  {
+    "token": "signed",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0834",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "completed",
+    "tag": "O"
+  },
+  {
+    "token": "ordering",
+    "tag": "O"
+  },
+  {
+    "token": "user:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0834",
+    "tag": "O"
+  },
+  {
+    "token": "authorized",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "ordering",
+    "tag": "O"
+  },
+  {
+    "token": "mode:",
+    "tag": "O"
+  },
+  {
+    "token": "standard",
+    "tag": "O"
+  },
+  {
+    "token": "frequency:",
+    "tag": "O"
+  },
+  {
+    "token": "routine",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "class:",
+    "tag": "O"
+  },
+  {
+    "token": "clinic",
+    "tag": "O"
+  },
+  {
+    "token": "collect",
+    "tag": "O"
+  },
+  {
+    "token": "quantity:",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "final",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "diagnoses",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "[e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9]",
+    "tag": "O"
+  },
+  {
+    "token": "specimen",
+    "tag": "O"
+  },
+  {
+    "token": "information",
+    "tag": "O"
+  },
+  {
+    "token": "id",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "source",
+    "tag": "O"
+  },
+  {
+    "token": "collected",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "24olsh-",
+    "tag": "O"
+  },
+  {
+    "token": "blood",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "blood",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0846",
+    "tag": "O"
+  },
+  {
+    "token": "283h0221",
+    "tag": "O"
+  },
+  {
+    "token": "cbc",
+    "tag": "O"
+  },
+  {
+    "token": "auto",
+    "tag": "O"
+  },
+  {
+    "token": "differential",
+    "tag": "O"
+  },
+  {
+    "token": "[1096741733]",
+    "tag": "O"
+  },
+  {
+    "token": "cbc",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "differential",
+    "tag": "O"
+  },
+  {
+    "token": "[1180377578]",
+    "tag": "O"
+  },
+  {
+    "token": "(abnormal)",
+    "tag": "O"
+  },
+  {
+    "token": "resulted:",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "1926,",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "final",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "order",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "completed",
+    "tag": "O"
+  },
+  {
+    "token": "filed",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "lab,",
+    "tag": "O"
+  },
+  {
+    "token": "background",
+    "tag": "O"
+  },
+  {
+    "token": "user",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "1926",
+    "tag": "O"
+  },
+  {
+    "token": "collected",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "brown,",
+    "tag": "O"
+  },
+  {
+    "token": "shaquerra,",
+    "tag": "O"
+  },
+  {
+    "token": "cma",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0846",
+    "tag": "O"
+  },
+  {
+    "token": "resulting",
+    "tag": "O"
+  },
+  {
+    "token": "lab:",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "components",
+    "tag": "O"
+  },
+  {
+    "token": "reference",
+    "tag": "O"
+  },
+  {
+    "token": "component",
+    "tag": "O"
+  },
+  {
+    "token": "value",
+    "tag": "O"
+  },
+  {
+    "token": "range",
+    "tag": "O"
+  },
+  {
+    "token": "flag",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "wbc",
+    "tag": "O"
+  },
+  {
+    "token": "8.12",
+    "tag": "O"
+  },
+  {
+    "token": "3.90",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "12.70",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "rbc",
+    "tag": "O"
+  },
+  {
+    "token": "5.07",
+    "tag": "O"
+  },
+  {
+    "token": "4.60",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "6.20",
+    "tag": "O"
+  },
+  {
+    "token": "m/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "hgb",
+    "tag": "O"
+  },
+  {
+    "token": "14.2",
+    "tag": "O"
+  },
+  {
+    "token": "12.5",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "16.3",
+    "tag": "O"
+  },
+  {
+    "token": "gm/dl",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "hct",
+    "tag": "O"
+  },
+  {
+    "token": "45.1",
+    "tag": "O"
+  },
+  {
+    "token": "36.7",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "47.1",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mcv",
+    "tag": "O"
+  },
+  {
+    "token": "89",
+    "tag": "O"
+  },
+  {
+    "token": "82",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "98",
+    "tag": "O"
+  },
+  {
+    "token": "fl",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mch",
+    "tag": "O"
+  },
+  {
+    "token": "28.0",
+    "tag": "O"
+  },
+  {
+    "token": "27.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "50.0",
+    "tag": "O"
+  },
+  {
+    "token": "pg",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mchc",
+    "tag": "O"
+  },
+  {
+    "token": "31.5",
+    "tag": "O"
+  },
+  {
+    "token": "31.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "37.0",
+    "tag": "O"
+  },
+  {
+    "token": "g/dl",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "rdw",
+    "tag": "O"
+  },
+  {
+    "token": "14.6",
+    "tag": "O"
+  },
+  {
+    "token": "11.5",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "14.5",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "h",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "rdw-sd",
+    "tag": "O"
+  },
+  {
+    "token": "47.6",
+    "tag": "O"
+  },
+  {
+    "token": "37.5",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "49.0",
+    "tag": "O"
+  },
+  {
+    "token": "fl",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "platelet",
+    "tag": "O"
+  },
+  {
+    "token": "count",
+    "tag": "O"
+  },
+  {
+    "token": "151",
+    "tag": "O"
+  },
+  {
+    "token": "150",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "450",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mpv",
+    "tag": "O"
+  },
+  {
+    "token": "11.7",
+    "tag": "O"
+  },
+  {
+    "token": "9.2",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "12.9",
+    "tag": "O"
+  },
+  {
+    "token": "fl",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "nucleated",
+    "tag": "O"
+  },
+  {
+    "token": "rbc",
+    "tag": "O"
+  },
+  {
+    "token": "0",
+    "tag": "O"
+  },
+  {
+    "token": "<=0",
+    "tag": "O"
+  },
+  {
+    "token": "/100",
+    "tag": "O"
+  },
+  {
+    "token": "wbc",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "neut",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "62.6",
+    "tag": "O"
+  },
+  {
+    "token": "38",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "73",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "lymph",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "22.5",
+    "tag": "O"
+  },
+  {
+    "token": "18",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "48",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mono",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "8.6",
+    "tag": "O"
+  },
+  {
+    "token": "4",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "15",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "eos",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "4.1",
+    "tag": "O"
+  },
+  {
+    "token": "<=8",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "basophil",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "1.6",
+    "tag": "O"
+  },
+  {
+    "token": "<=1.9",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "relative",
+    "tag": "O"
+  },
+  {
+    "token": "immature",
+    "tag": "O"
+  },
+  {
+    "token": "granulocytes",
+    "tag": "O"
+  },
+  {
+    "token": "0.6",
+    "tag": "O"
+  },
+  {
+    "token": "0.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "0.5",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "h",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "neut",
+    "tag": "O"
+  },
+  {
+    "token": "#",
+    "tag": "O"
+  },
+  {
+    "token": "5.08",
+    "tag": "O"
+  },
+  {
+    "token": "1.8",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "7.7",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "lymph",
+    "tag": "O"
+  },
+  {
+    "token": "#",
+    "tag": "O"
+  },
+  {
+    "token": "1.83",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "4.8",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mono",
+    "tag": "O"
+  },
+  {
+    "token": "#",
+    "tag": "O"
+  },
+  {
+    "token": "0.70",
+    "tag": "O"
+  },
+  {
+    "token": "0.3",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "eos",
+    "tag": "O"
+  },
+  {
+    "token": "#",
+    "tag": "O"
+  },
+  {
+    "token": "0.33",
+    "tag": "O"
+  },
+  {
+    "token": "<=0.5",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "baso",
+    "tag": "O"
+  },
+  {
+    "token": "#",
+    "tag": "O"
+  },
+  {
+    "token": "0.13",
+    "tag": "O"
+  },
+  {
+    "token": "<=0.2",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "absolute",
+    "tag": "O"
+  },
+  {
+    "token": "immature",
+    "tag": "O"
+  },
+  {
+    "token": "granulocytes",
+    "tag": "O"
+  },
+  {
+    "token": "0.05",
+    "tag": "O"
+  },
+  {
+    "token": "0.00",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "0.04",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "h",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "comment:",
+    "tag": "O"
+  },
+  {
+    "token": "mild",
+    "tag": "O"
+  },
+  {
+    "token": "elevation",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "immature",
+    "tag": "O"
+  },
+  {
+    "token": "granulocytes",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "non",
+    "tag": "O"
+  },
+  {
+    "token": "specific",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "can",
+    "tag": "O"
+  },
+  {
+    "token": "be",
+    "tag": "O"
+  },
+  {
+    "token": "seen",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "a",
+    "tag": "O"
+  },
+  {
+    "token": "variety",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "conditions",
+    "tag": "O"
+  },
+  {
+    "token": "including",
+    "tag": "O"
+  },
+  {
+    "token": "stress",
+    "tag": "O"
+  },
+  {
+    "token": "response,",
+    "tag": "O"
+  },
+  {
+    "token": "acute",
+    "tag": "O"
+  },
+  {
+    "token": "inflammation,",
+    "tag": "O"
+  },
+  {
+    "token": "trauma",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "pregnancy.",
+    "tag": "O"
+  },
+  {
+    "token": "correlation",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "other",
+    "tag": "O"
+  },
+  {
+    "token": "laboratory",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "clinical",
+    "tag": "O"
+  },
+  {
+    "token": "findings",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "essential.",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "9",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "labs",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "testing",
+    "tag": "O"
+  },
+  {
+    "token": "performed",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "abbreviation",
+    "tag": "O"
+  },
+  {
+    "token": "name",
+    "tag": "O"
+  },
+  {
+    "token": "director",
+    "tag": "O"
+  },
+  {
+    "token": "address",
+    "tag": "O"
+  },
+  {
+    "token": "valid",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "range",
+    "tag": "O"
+  },
+  {
+    "token": "650",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "unknown",
+    "tag": "O"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "04/27/23",
+    "tag": "O"
+  },
+  {
+    "token": "0824",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "71103",
+    "tag": "O"
+  },
+  {
+    "token": "indications",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "[e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9",
+    "tag": "O"
+  },
+  {
+    "token": "(icd-10-cm)]",
+    "tag": "O"
+  },
+  {
+    "token": "microalbumin/creatinine",
+    "tag": "O"
+  },
+  {
+    "token": "urine",
+    "tag": "O"
+  },
+  {
+    "token": "ratio",
+    "tag": "O"
+  },
+  {
+    "token": "[1180377570]",
+    "tag": "O"
+  },
+  {
+    "token": "(final",
+    "tag": "O"
+  },
+  {
+    "token": "result)",
+    "tag": "O"
+  },
+  {
+    "token": "electronically",
+    "tag": "O"
+  },
+  {
+    "token": "signed",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0834",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "completed",
+    "tag": "O"
+  },
+  {
+    "token": "ordering",
+    "tag": "O"
+  },
+  {
+    "token": "user:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0834",
+    "tag": "O"
+  },
+  {
+    "token": "authorized",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "ordering",
+    "tag": "O"
+  },
+  {
+    "token": "mode:",
+    "tag": "O"
+  },
+  {
+    "token": "standard",
+    "tag": "O"
+  },
+  {
+    "token": "frequency:",
+    "tag": "O"
+  },
+  {
+    "token": "routine",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "class:",
+    "tag": "O"
+  },
+  {
+    "token": "clinic",
+    "tag": "O"
+  },
+  {
+    "token": "collect",
+    "tag": "O"
+  },
+  {
+    "token": "quantity:",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "final",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "diagnoses",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "[e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9]",
+    "tag": "O"
+  },
+  {
+    "token": "questionnaire",
+    "tag": "O"
+  },
+  {
+    "token": "question",
+    "tag": "O"
+  },
+  {
+    "token": "answer",
+    "tag": "O"
+  },
+  {
+    "token": "specimen",
+    "tag": "O"
+  },
+  {
+    "token": "source",
+    "tag": "O"
+  },
+  {
+    "token": "urine",
+    "tag": "O"
+  },
+  {
+    "token": "send",
+    "tag": "O"
+  },
+  {
+    "token": "normal",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "to",
+    "tag": "O"
+  },
+  {
+    "token": "authorizing",
+    "tag": "O"
+  },
+  {
+    "token": "provider's",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "basket",
+    "tag": "O"
+  },
+  {
+    "token": "if",
+    "tag": "O"
+  },
+  {
+    "token": "patient",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "yes",
+    "tag": "O"
+  },
+  {
+    "token": "active",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "mychart:",
+    "tag": "O"
+  },
+  {
+    "token": "order",
+    "tag": "O"
+  },
+  {
+    "token": "comments:",
+    "tag": "O"
+  },
+  {
+    "token": "specimen",
+    "tag": "O"
+  },
+  {
+    "token": "information",
+    "tag": "O"
+  },
+  {
+    "token": "id",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "source",
+    "tag": "O"
+  },
+  {
+    "token": "collected",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "24olsh-",
+    "tag": "O"
+  },
+  {
+    "token": "urine",
+    "tag": "O"
+  },
+  {
+    "token": "urine,",
+    "tag": "O"
+  },
+  {
+    "token": "clean",
+    "tag": "O"
+  },
+  {
+    "token": "brown,",
+    "tag": "O"
+  },
+  {
+    "token": "shaquerra,",
+    "tag": "O"
+  },
+  {
+    "token": "cma",
+    "tag": "O"
+  },
+  {
+    "token": "283c0338",
+    "tag": "O"
+  },
+  {
+    "token": "catch",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0846",
+    "tag": "O"
+  },
+  {
+    "token": "microalbumin/creatinine",
+    "tag": "O"
+  },
+  {
+    "token": "urine",
+    "tag": "O"
+  },
+  {
+    "token": "ratio",
+    "tag": "O"
+  },
+  {
+    "token": "[1180377570]",
+    "tag": "O"
+  },
+  {
+    "token": "(abnormal)",
+    "tag": "O"
+  },
+  {
+    "token": "resulted:",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "1952,",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "final",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "order",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "completed",
+    "tag": "O"
+  },
+  {
+    "token": "filed",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "lab,",
+    "tag": "O"
+  },
+  {
+    "token": "background",
+    "tag": "O"
+  },
+  {
+    "token": "user",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "1952",
+    "tag": "O"
+  },
+  {
+    "token": "collected",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "brown,",
+    "tag": "O"
+  },
+  {
+    "token": "shaquerra,",
+    "tag": "O"
+  },
+  {
+    "token": "cma",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0846",
+    "tag": "O"
+  },
+  {
+    "token": "resulting",
+    "tag": "O"
+  },
+  {
+    "token": "lab:",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "components",
+    "tag": "O"
+  },
+  {
+    "token": "component",
+    "tag": "O"
+  },
+  {
+    "token": "value",
+    "tag": "O"
+  },
+  {
+    "token": "reference",
+    "tag": "O"
+  },
+  {
+    "token": "range",
+    "tag": "O"
+  },
+  {
+    "token": "flag",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "urine",
+    "tag": "O"
+  },
+  {
+    "token": "microalbumin",
+    "tag": "O"
+  },
+  {
+    "token": "10.0",
+    "tag": "O"
+  },
+  {
+    "token": "ug/ml",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "urine",
+    "tag": "O"
+  },
+  {
+    "token": "creatinine",
+    "tag": "O"
+  },
+  {
+    "token": "33.0",
+    "tag": "O"
+  },
+  {
+    "token": "23.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "375.0",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mg/dl",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "microalbumin/creatinine",
+    "tag": "O"
+  },
+  {
+    "token": "ratio",
+    "tag": "O"
+  },
+  {
+    "token": "urine",
+    "tag": "O"
+  },
+  {
+    "token": "30.3",
+    "tag": "O"
+  },
+  {
+    "token": "<=30.0",
+    "tag": "O"
+  },
+  {
+    "token": "ug/mg",
+    "tag": "O"
+  },
+  {
+    "token": "h",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "testing",
+    "tag": "O"
+  },
+  {
+    "token": "performed",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "abbreviation",
+    "tag": "O"
+  },
+  {
+    "token": "name",
+    "tag": "O"
+  },
+  {
+    "token": "director",
+    "tag": "O"
+  },
+  {
+    "token": "address",
+    "tag": "O"
+  },
+  {
+    "token": "valid",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "range",
+    "tag": "O"
+  },
+  {
+    "token": "650",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "unknown",
+    "tag": "O"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "04/27/23",
+    "tag": "O"
+  },
+  {
+    "token": "0824",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "71103",
+    "tag": "O"
+  },
+  {
+    "token": "indications",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "[e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9",
+    "tag": "O"
+  },
+  {
+    "token": "(icd-10-cm)]",
+    "tag": "O"
+  },
+  {
+    "token": "cbc",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "differential",
+    "tag": "O"
+  },
+  {
+    "token": "[1180377578]",
+    "tag": "O"
+  },
+  {
+    "token": "(final",
+    "tag": "O"
+  },
+  {
+    "token": "result)",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "10",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "labs",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "completed",
+    "tag": "O"
+  },
+  {
+    "token": "order",
+    "tag": "O"
+  },
+  {
+    "token": "placed",
+    "tag": "O"
+  },
+  {
+    "token": "as",
+    "tag": "O"
+  },
+  {
+    "token": "a",
+    "tag": "O"
+  },
+  {
+    "token": "reflex",
+    "tag": "O"
+  },
+  {
+    "token": "to",
+    "tag": "O"
+  },
+  {
+    "token": "cbc",
+    "tag": "O"
+  },
+  {
+    "token": "auto",
+    "tag": "O"
+  },
+  {
+    "token": "differential",
+    "tag": "O"
+  },
+  {
+    "token": "[1096741733]",
+    "tag": "O"
+  },
+  {
+    "token": "ordered",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "at",
+    "tag": "O"
+  },
+  {
+    "token": "0834",
+    "tag": "O"
+  },
+  {
+    "token": "ordering",
+    "tag": "O"
+  },
+  {
+    "token": "user:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0834",
+    "tag": "O"
+  },
+  {
+    "token": "authorized",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "ordering",
+    "tag": "O"
+  },
+  {
+    "token": "mode:",
+    "tag": "O"
+  },
+  {
+    "token": "standard",
+    "tag": "O"
+  },
+  {
+    "token": "frequency:",
+    "tag": "O"
+  },
+  {
+    "token": "routine",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "class:",
+    "tag": "O"
+  },
+  {
+    "token": "clinic",
+    "tag": "O"
+  },
+  {
+    "token": "collect",
+    "tag": "O"
+  },
+  {
+    "token": "quantity:",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "final",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "diagnoses",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "[e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9]",
+    "tag": "O"
+  },
+  {
+    "token": "specimen",
+    "tag": "O"
+  },
+  {
+    "token": "information",
+    "tag": "O"
+  },
+  {
+    "token": "id",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "draw",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "source",
+    "tag": "O"
+  },
+  {
+    "token": "collected",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "24olsh-",
+    "tag": "O"
+  },
+  {
+    "token": "blood",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "venipuncture",
+    "tag": "O"
+  },
+  {
+    "token": "blood",
+    "tag": "B-VIT"
+  },
+  {
+    "token": "brown,",
+    "tag": "O"
+  },
+  {
+    "token": "shaquerra,",
+    "tag": "O"
+  },
+  {
+    "token": "cma",
+    "tag": "O"
+  },
+  {
+    "token": "283h0221",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0846",
+    "tag": "O"
+  },
+  {
+    "token": "cbc",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "differential",
+    "tag": "O"
+  },
+  {
+    "token": "[1180377578]",
+    "tag": "O"
+  },
+  {
+    "token": "(abnormal)",
+    "tag": "O"
+  },
+  {
+    "token": "resulted:",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "1926,",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "final",
+    "tag": "O"
+  },
+  {
+    "token": "result",
+    "tag": "O"
+  },
+  {
+    "token": "order",
+    "tag": "O"
+  },
+  {
+    "token": "status:",
+    "tag": "O"
+  },
+  {
+    "token": "completed",
+    "tag": "O"
+  },
+  {
+    "token": "filed",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "lab,",
+    "tag": "O"
+  },
+  {
+    "token": "background",
+    "tag": "O"
+  },
+  {
+    "token": "user",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "1926",
+    "tag": "O"
+  },
+  {
+    "token": "collected",
+    "tag": "O"
+  },
+  {
+    "token": "by:",
+    "tag": "O"
+  },
+  {
+    "token": "brown,",
+    "tag": "O"
+  },
+  {
+    "token": "shaquerra,",
+    "tag": "O"
+  },
+  {
+    "token": "cma",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/24",
+    "tag": "O"
+  },
+  {
+    "token": "0846",
+    "tag": "O"
+  },
+  {
+    "token": "resulting",
+    "tag": "O"
+  },
+  {
+    "token": "lab:",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "components",
+    "tag": "O"
+  },
+  {
+    "token": "component",
+    "tag": "O"
+  },
+  {
+    "token": "value",
+    "tag": "O"
+  },
+  {
+    "token": "reference",
+    "tag": "O"
+  },
+  {
+    "token": "range",
+    "tag": "O"
+  },
+  {
+    "token": "flag",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "wbc",
+    "tag": "O"
+  },
+  {
+    "token": "8.12",
+    "tag": "O"
+  },
+  {
+    "token": "3.90",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "12.70",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "rbc",
+    "tag": "O"
+  },
+  {
+    "token": "5.07",
+    "tag": "O"
+  },
+  {
+    "token": "4.60",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "6.20",
+    "tag": "O"
+  },
+  {
+    "token": "m/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "hgb",
+    "tag": "O"
+  },
+  {
+    "token": "14.2",
+    "tag": "O"
+  },
+  {
+    "token": "12.5",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "16.3",
+    "tag": "O"
+  },
+  {
+    "token": "gm/dl",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "hct",
+    "tag": "O"
+  },
+  {
+    "token": "45.1",
+    "tag": "O"
+  },
+  {
+    "token": "36.7",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "47.1",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mcv",
+    "tag": "O"
+  },
+  {
+    "token": "89",
+    "tag": "O"
+  },
+  {
+    "token": "82",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "98",
+    "tag": "O"
+  },
+  {
+    "token": "fl",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mch",
+    "tag": "O"
+  },
+  {
+    "token": "28.0",
+    "tag": "O"
+  },
+  {
+    "token": "27.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "50.0",
+    "tag": "O"
+  },
+  {
+    "token": "pg",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mchc",
+    "tag": "O"
+  },
+  {
+    "token": "31.5",
+    "tag": "O"
+  },
+  {
+    "token": "31.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "37.0",
+    "tag": "O"
+  },
+  {
+    "token": "g/dl",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "rdw",
+    "tag": "O"
+  },
+  {
+    "token": "14.6",
+    "tag": "O"
+  },
+  {
+    "token": "11.5",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "14.5",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "h",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "rdw-sd",
+    "tag": "O"
+  },
+  {
+    "token": "47.6",
+    "tag": "O"
+  },
+  {
+    "token": "37.5",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "49.0",
+    "tag": "O"
+  },
+  {
+    "token": "fl",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "platelet",
+    "tag": "O"
+  },
+  {
+    "token": "count",
+    "tag": "O"
+  },
+  {
+    "token": "151",
+    "tag": "O"
+  },
+  {
+    "token": "150",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "450",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mpv",
+    "tag": "O"
+  },
+  {
+    "token": "11.7",
+    "tag": "O"
+  },
+  {
+    "token": "9.2",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "12.9",
+    "tag": "O"
+  },
+  {
+    "token": "fl",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "nucleated",
+    "tag": "O"
+  },
+  {
+    "token": "rbc",
+    "tag": "O"
+  },
+  {
+    "token": "0",
+    "tag": "O"
+  },
+  {
+    "token": "<=0",
+    "tag": "O"
+  },
+  {
+    "token": "/100",
+    "tag": "O"
+  },
+  {
+    "token": "wbc",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "neut",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "62.6",
+    "tag": "O"
+  },
+  {
+    "token": "38",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "73",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "lymph",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "22.5",
+    "tag": "O"
+  },
+  {
+    "token": "18",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "48",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mono",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "8.6",
+    "tag": "O"
+  },
+  {
+    "token": "4",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "15",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "eos",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "4.1",
+    "tag": "O"
+  },
+  {
+    "token": "<=8",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "basophil",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "1.6",
+    "tag": "O"
+  },
+  {
+    "token": "<=1.9",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "relative",
+    "tag": "O"
+  },
+  {
+    "token": "immature",
+    "tag": "O"
+  },
+  {
+    "token": "granulocytes",
+    "tag": "O"
+  },
+  {
+    "token": "0.6",
+    "tag": "O"
+  },
+  {
+    "token": "0.0",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "0.5",
+    "tag": "O"
+  },
+  {
+    "token": "%",
+    "tag": "O"
+  },
+  {
+    "token": "h",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "neut",
+    "tag": "O"
+  },
+  {
+    "token": "#",
+    "tag": "O"
+  },
+  {
+    "token": "5.08",
+    "tag": "O"
+  },
+  {
+    "token": "1.8",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "7.7",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "lymph",
+    "tag": "O"
+  },
+  {
+    "token": "#",
+    "tag": "O"
+  },
+  {
+    "token": "1.83",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "4.8",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "mono",
+    "tag": "O"
+  },
+  {
+    "token": "#",
+    "tag": "O"
+  },
+  {
+    "token": "0.70",
+    "tag": "O"
+  },
+  {
+    "token": "0.3",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "1",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "eos",
+    "tag": "O"
+  },
+  {
+    "token": "#",
+    "tag": "O"
+  },
+  {
+    "token": "0.33",
+    "tag": "O"
+  },
+  {
+    "token": "<=0.5",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "baso",
+    "tag": "O"
+  },
+  {
+    "token": "#",
+    "tag": "O"
+  },
+  {
+    "token": "0.13",
+    "tag": "O"
+  },
+  {
+    "token": "<=0.2",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "\u2014",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "absolute",
+    "tag": "O"
+  },
+  {
+    "token": "immature",
+    "tag": "O"
+  },
+  {
+    "token": "granulocytes",
+    "tag": "O"
+  },
+  {
+    "token": "0.05",
+    "tag": "O"
+  },
+  {
+    "token": "0.00",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "0.04",
+    "tag": "O"
+  },
+  {
+    "token": "k/ul",
+    "tag": "O"
+  },
+  {
+    "token": "h",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "comment:",
+    "tag": "O"
+  },
+  {
+    "token": "mild",
+    "tag": "O"
+  },
+  {
+    "token": "elevation",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "immature",
+    "tag": "O"
+  },
+  {
+    "token": "granulocytes",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "non",
+    "tag": "O"
+  },
+  {
+    "token": "specific",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "can",
+    "tag": "O"
+  },
+  {
+    "token": "be",
+    "tag": "O"
+  },
+  {
+    "token": "seen",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "a",
+    "tag": "O"
+  },
+  {
+    "token": "variety",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "conditions",
+    "tag": "O"
+  },
+  {
+    "token": "including",
+    "tag": "O"
+  },
+  {
+    "token": "stress",
+    "tag": "O"
+  },
+  {
+    "token": "response,",
+    "tag": "O"
+  },
+  {
+    "token": "acute",
+    "tag": "O"
+  },
+  {
+    "token": "inflammation,",
+    "tag": "O"
+  },
+  {
+    "token": "trauma",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "pregnancy.",
+    "tag": "O"
+  },
+  {
+    "token": "correlation",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "other",
+    "tag": "O"
+  },
+  {
+    "token": "laboratory",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "clinical",
+    "tag": "O"
+  },
+  {
+    "token": "findings",
+    "tag": "O"
+  },
+  {
+    "token": "is",
+    "tag": "O"
+  },
+  {
+    "token": "essential.",
+    "tag": "O"
+  },
+  {
+    "token": "testing",
+    "tag": "O"
+  },
+  {
+    "token": "performed",
+    "tag": "O"
+  },
+  {
+    "token": "by",
+    "tag": "O"
+  },
+  {
+    "token": "lab",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "abbreviation",
+    "tag": "O"
+  },
+  {
+    "token": "name",
+    "tag": "O"
+  },
+  {
+    "token": "director",
+    "tag": "O"
+  },
+  {
+    "token": "address",
+    "tag": "O"
+  },
+  {
+    "token": "valid",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "range",
+    "tag": "O"
+  },
+  {
+    "token": "650",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "shvrt",
+    "tag": "O"
+  },
+  {
+    "token": "ochsner",
+    "tag": "O"
+  },
+  {
+    "token": "lsu",
+    "tag": "O"
+  },
+  {
+    "token": "unknown",
+    "tag": "O"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "04/27/23",
+    "tag": "O"
+  },
+  {
+    "token": "0824",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "present",
+    "tag": "O"
+  },
+  {
+    "token": "health",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "71103",
+    "tag": "O"
+  },
+  {
+    "token": "indications",
+    "tag": "O"
+  },
+  {
+    "token": "type",
+    "tag": "O"
+  },
+  {
+    "token": "2",
+    "tag": "O"
+  },
+  {
+    "token": "diabetes",
+    "tag": "O"
+  },
+  {
+    "token": "mellitus",
+    "tag": "O"
+  },
+  {
+    "token": "with",
+    "tag": "O"
+  },
+  {
+    "token": "diabetic",
+    "tag": "O"
+  },
+  {
+    "token": "microalbuminuria,",
+    "tag": "O"
+  },
+  {
+    "token": "without",
+    "tag": "O"
+  },
+  {
+    "token": "long-term",
+    "tag": "O"
+  },
+  {
+    "token": "current",
+    "tag": "O"
+  },
+  {
+    "token": "use",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "insulin",
+    "tag": "O"
+  },
+  {
+    "token": "[e11.29,",
+    "tag": "O"
+  },
+  {
+    "token": "r80.9",
+    "tag": "O"
+  },
+  {
+    "token": "(icd-10-cm)]",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "11",
+    "tag": "O"
+  },
+  {
+    "token": "olsc",
+    "tag": "O"
+  },
+  {
+    "token": "prv",
+    "tag": "O"
+  },
+  {
+    "token": "primary",
+    "tag": "O"
+  },
+  {
+    "token": "care",
+    "tag": "O"
+  },
+  {
+    "token": "melvin,",
+    "tag": "O"
+  },
+  {
+    "token": "william",
+    "tag": "O"
+  },
+  {
+    "token": "f",
+    "tag": "I-VAL"
+  },
+  {
+    "token": "1541",
+    "tag": "O"
+  },
+  {
+    "token": "kings",
+    "tag": "O"
+  },
+  {
+    "token": "hwy",
+    "tag": "O"
+  },
+  {
+    "token": "mrn:",
+    "tag": "O"
+  },
+  {
+    "token": "14458325,",
+    "tag": "O"
+  },
+  {
+    "token": "dob:",
+    "tag": "O"
+  },
+  {
+    "token": "9/24/1948,",
+    "tag": "O"
+  },
+  {
+    "token": "legal",
+    "tag": "O"
+  },
+  {
+    "token": "sex:",
+    "tag": "O"
+  },
+  {
+    "token": "m",
+    "tag": "O"
+  },
+  {
+    "token": "shreveport",
+    "tag": "O"
+  },
+  {
+    "token": "la",
+    "tag": "O"
+  },
+  {
+    "token": "71103-4228",
+    "tag": "O"
+  },
+  {
+    "token": "acct",
+    "tag": "O"
+  },
+  {
+    "token": "#:",
+    "tag": "O"
+  },
+  {
+    "token": "28009157410",
+    "tag": "O"
+  },
+  {
+    "token": "enc.",
+    "tag": "O"
+  },
+  {
+    "token": "date",
+    "tag": "O"
+  },
+  {
+    "token": "10/9/2024",
+    "tag": "O"
+  },
+  {
+    "token": "labs",
+    "tag": "O"
+  },
+  {
+    "token": "(continued)",
+    "tag": "O"
+  },
+  {
+    "token": "follow-up",
+    "tag": "O"
+  },
+  {
+    "token": "and",
+    "tag": "O"
+  },
+  {
+    "token": "disposition",
+    "tag": "O"
+  },
+  {
+    "token": "history",
+    "tag": "O"
+  },
+  {
+    "token": "10/09/2024",
+    "tag": "O"
+  },
+  {
+    "token": "0843",
+    "tag": "O"
+  },
+  {
+    "token": "-",
+    "tag": "O"
+  },
+  {
+    "token": "amanda",
+    "tag": "O"
+  },
+  {
+    "token": "l.",
+    "tag": "O"
+  },
+  {
+    "token": "callegan-poche,",
+    "tag": "O"
+  },
+  {
+    "token": "md",
+    "tag": "O"
+  },
+  {
+    "token": "dispositions:",
+    "tag": "O"
+  },
+  {
+    "token": "\u00b7",
+    "tag": "O"
+  },
+  {
+    "token": "follow",
+    "tag": "O"
+  },
+  {
+    "token": "up",
+    "tag": "O"
+  },
+  {
+    "token": "in",
+    "tag": "O"
+  },
+  {
+    "token": "about",
+    "tag": "O"
+  },
+  {
+    "token": "6",
+    "tag": "O"
+  },
+  {
+    "token": "months",
+    "tag": "O"
+  },
+  {
+    "token": "(around",
+    "tag": "O"
+  },
+  {
+    "token": "4/9/2025).",
+    "tag": "O"
+  },
+  {
+    "token": "follow-up",
+    "tag": "O"
+  },
+  {
+    "token": "information",
+    "tag": "O"
+  },
+  {
+    "token": "none",
+    "tag": "O"
+  },
+  {
+    "token": "follow",
+    "tag": "O"
+  },
+  {
+    "token": "up",
+    "tag": "O"
+  },
+  {
+    "token": "call",
+    "tag": "O"
+  },
+  {
+    "token": "no",
+    "tag": "O"
+  },
+  {
+    "token": "data",
+    "tag": "O"
+  },
+  {
+    "token": "filed",
+    "tag": "O"
+  },
+  {
+    "token": "end",
+    "tag": "O"
+  },
+  {
+    "token": "of",
+    "tag": "O"
+  },
+  {
+    "token": "report",
+    "tag": "O"
+  },
+  {
+    "token": "generated",
+    "tag": "O"
+  },
+  {
+    "token": "on",
+    "tag": "O"
+  },
+  {
+    "token": "10/30/24",
+    "tag": "O"
+  },
+  {
+    "token": "11:39",
+    "tag": "O"
+  },
+  {
+    "token": "am",
+    "tag": "O"
+  },
+  {
+    "token": "page",
+    "tag": "O"
+  },
+  {
+    "token": "12",
+    "tag": "O"
+  }
+]
